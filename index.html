@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Should’ve Would’ve Could’ve v2.1 - Regret Bet</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; background: #111; color: #eee; }
+h1 { color: #f90; }
+.game { border: 1px solid #333; padding: 1rem; margin: 1rem 0; border-radius: 8px; background: #1a1a1a; }
+.score { font-weight: bold; color: #0f0; }
+.regret { margin-top: 0.5rem; }
+input, button { padding: 0.5rem; margin: 0.25rem; }
+button { background: #f90; color: #000; border: none; cursor: pointer; }
+.note { font-size: 0.9em; color: #aaa; }
+</style>
+</head>
+<body>
+<h1>Should’ve Would’ve Could’ve v2.1</h1>
+<p>Regret Bet Tracker – Reflect on past bets with final scores.</p>
+<p class="note">Update ready. Games from yesterday (Oct 16) added with ESPN scores. Closing lines unavailable (Odds API key not available); featured markets from ESPN. Monday TD props skipped. NFL: none on Oct 16.</p>
+
+<div class="game">
+<h3>College Football</h3>
+<p><strong>UAB</strong> <span class="score">30-17 OT</span> over ECU</p>
+<div class="regret">Should’ve: <input type="text" placeholder="e.g. take UAB -3"> Would’ve: <input type="text"> Could’ve: <input type="text"></div>
+<p><strong>GASO</strong> <span class="score">23-15</span> over ODU</p>
+<div class="regret">Should’ve: <input type="text"> Would’ve: <input type="text"> Could’ve: <input type="text"></div>
+<p><strong>TXST</strong> <span class="score">66-27</span> over CSU</p>
+<div class="regret">Should’ve: <input type="text"> Would’ve: <input type="text"> Could’ve: <input type="text"></div>
+</div>
+
+<div class="game">
+<h3>NHL</h3>
+<p><strong>COL</strong> <span class="score">5-2</span> over PIT</p>
+<div class="regret">Should’ve: <input type="text"> Would’ve: <input type="text"> Could’ve: <input type="text"></div>
+<p><strong>BOS</strong> <span class="score">4-2</span> over ANA</p>
+<div class="regret">Should’ve: <input type="text"> Would’ve: <input type="text"> Could’ve: <input type="text"></div>
+</div>
+
+<div class="game">
+<h3>NBA Preseason</h3>
+<p>12 games played. (Specific scores/lines not detailed in update; featured markets from ESPN.)</p>
+<div class="regret">Log your regrets: <input type="text" placeholder="Game and bet details" style="width:60%"></div>
+</div>
+
+<button onclick="saveRegrets()">Save Regrets Locally</button>
+<p id="status"></p>
+<script>
+function saveRegrets() {
+  const inputs = document.querySelectorAll('input');
+  const data = Array.from(inputs).map(i => i.value).filter(v => v);
+  localStorage.setItem('regretBets', JSON.stringify(data));
+  document.getElementById('status').textContent = 'Saved ' + data.length + ' entries locally. Publish live link when ready!';
+}
+</script>
+</body>
+</html>
