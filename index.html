@@ -1,1 +1,133 @@
-PLACEHOLDER
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Should’ve Would’ve Could’ve · Regret Bet v2.1</title>
+<style>
+  :root { --bg:#0f1419; --card:#1a2332; --accent:#3b82f6; --text:#e2e8f0; --muted:#94a3b8; --green:#10b981; --red:#ef4444; }
+  * { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 1rem; line-height: 1.5; }
+  header { text-align: center; margin-bottom: 2rem; }
+  h1 { font-size: 1.8rem; margin: 0; }
+  .subtitle { color: var(--muted); font-size: 0.95rem; }
+  .note { background: #1e293b; border-left: 4px solid var(--accent); padding: 0.75rem 1rem; margin: 1rem 0; border-radius: 0 8px 8px 0; font-size: 0.9rem; }
+  .section { margin: 2rem 0; }
+  h2 { border-bottom: 1px solid #334155; padding-bottom: 0.5rem; }
+  .game-card { background: var(--card); border-radius: 12px; padding: 1rem; margin: 0.75rem 0; display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem; align-items: center; }
+  .team { text-align: center; }
+  .team .name { font-weight: 600; }
+  .team .score { font-size: 1.4rem; font-weight: 700; }
+  .vs { color: var(--muted); font-size: 0.85rem; }
+  .meta { font-size: 0.8rem; color: var(--muted); margin-top: 0.5rem; text-align: center; }
+  .odds { font-size: 0.85rem; color: #cbd5e1; }
+  .status-final { color: var(--green); font-weight: 600; }
+  .status-upcoming { color: var(--accent); }
+  .league-tabs { display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 1rem 0; }
+  .league-tabs button { background: #1e293b; border: none; color: var(--text); padding: 0.4rem 0.8rem; border-radius: 999px; cursor: pointer; }
+  .league-tabs button.active { background: var(--accent); }
+  footer { text-align: center; color: var(--muted); font-size: 0.8rem; margin-top: 3rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Should’ve Would’ve Could’ve</h1>
+  <div class="subtitle">Regret Bet · Version 2.1 · Updated 16 Nov 2026</div>
+</header>
+
+<div class="note">
+  <strong>Odds:</strong> Featured markets (moneyline, spread, total) use ESPN closing lines. 
+  Monday NFL touchdown props (first TD scorer, alternate passing TDs 0.5/1.5/2.5, alternate rush+reception TDs 0.5/1.5/2.5) were <strong>skipped</strong> — no Odds API key available (free 500-credit budget, one US region).
+</div>
+
+<div class="section">
+  <h2>Yesterday’s Finished Games <span id="finished-count"></span></h2>
+  <div class="league-tabs" id="finished-tabs"></div>
+  <div id="finished-games"></div>
+</div>
+
+<div class="section">
+  <h2>Upcoming (7-day window) <span id="upcoming-count"></span></h2>
+  <div class="league-tabs" id="upcoming-tabs"></div>
+  <div id="upcoming-games"></div>
+</div>
+
+<div class="section">
+  <h2>Should’ve · Would’ve · Could’ve</h2>
+  <p style="color:var(--muted)">Track your regrets here. Upcoming games are preserved. Add your bets after results post.</p>
+  <div id="regrets"></div>
+</div>
+
+<footer>
+  Data from ESPN · Closing lines via ESPN pickcenter · Regret Bet app · Do not publish until ready
+</footer>
+
+<script>
+let data = {};
+async function load() {
+  const res = await fetch('src/data/games.json');
+  data = await res.json();
+  render();
+}
+
+function render() {
+  const leagues = ['NFL','CollegeFootball','MLB','NHL','NBA'];
+  const finished = data.finished_yesterday || {};
+  const upcoming = data.upcoming || {};
+
+  document.getElementById('finished-count').textContent = `(${Object.values(finished).flat().length})`;
+  document.getElementById('upcoming-count').textContent = `(${Object.values(upcoming).flat().length})`;
+
+  renderTabs('finished-tabs', leagues, (l) => showFinished(l));
+  renderTabs('upcoming-tabs', leagues, (l) => showUpcoming(l));
+  showFinished('NFL');
+  showUpcoming('NFL');
+}
+
+function renderTabs(containerId, leagues, onClick) {
+  const el = document.getElementById(containerId);
+  el.innerHTML = leagues.map(l => `<button data-league="${l}">${l}</button>`).join('');
+  el.querySelectorAll('button').forEach(btn => {
+    btn.onclick = () => {
+      el.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      onClick(btn.dataset.league);
+    };
+  });
+  el.querySelector('button')?.classList.add('active');
+}
+
+function showFinished(league) {
+  const games = (data.finished_yesterday || {})[league] || [];
+  const el = document.getElementById('finished-games');
+  if (!games.length) { el.innerHTML = '<p style="color:var(--muted)">No finished games.</p>'; return; }
+  el.innerHTML = games.map(g => {
+    const odds = g.closing_odds;
+    const oddsHtml = odds ? `<div class="odds">Spread: ${odds.spread_details || '—'} · O/U: ${odds.overUnder || '—'} · ML: ${odds.awayMoneyline || '—'}/${odds.homeMoneyline || '—'}</div>` : '<div class="odds">No closing line</div>';
+    return `<div class="game-card">
+      <div class="team"><div class="name">${g.away.abbr || g.away.team}</div><div class="score">${g.away.score}</div></div>
+      <div class="vs">@</div>
+      <div class="team"><div class="name">${g.home.abbr || g.home.team}</div><div class="score">${g.home.score}</div></div>
+      <div class="meta" style="grid-column:1/-1">${g.shortName || g.name} · <span class="status-final">${g.status}</span><br>${oddsHtml}</div>
+    </div>`;
+  }).join('');
+}
+
+function showUpcoming(league) {
+  const games = (data.upcoming || {})[league] || [];
+  const el = document.getElementById('upcoming-games');
+  if (!games.length) { el.innerHTML = '<p style="color:var(--muted)">No upcoming games in window.</p>'; return; }
+  el.innerHTML = games.map(g => `
+    <div class="game-card">
+      <div class="team"><div class="name">${g.away.abbr || g.away.team}</div></div>
+      <div class="vs">@</div>
+      <div class="team"><div class="name">${g.home.abbr || g.home.team}</div></div>
+      <div class="meta" style="grid-column:1/-1">${g.shortName || g.name} · <span class="status-upcoming">${g.status}</span> · ${new Date(g.date).toLocaleString()}</div>
+    </div>
+  `).join('');
+}
+
+load();
+</script>
+</body>
+</html>
