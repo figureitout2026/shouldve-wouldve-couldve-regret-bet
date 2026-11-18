@@ -1,1 +1,15 @@
-TOO_LARGE_TO_INLINE_SEE_NOTE
+{
+  "updated": "2026-11-18T07:56:38Z",
+  "window": "7-day",
+  "finished_yesterday": {
+    "NFL": [],
+    "CollegeFootball": [],
+    "MLB": [],
+    "NHL": [],
+    "NBA": []
+  },
+  "notes": {
+    "odds_source": "ESPN closing lines (DraftKings via pickcenter) for featured markets. No Odds API key available; Monday NFL touchdown props skipped to conserve credits.",
+    "td_props": "skipped"
+  }
+}
