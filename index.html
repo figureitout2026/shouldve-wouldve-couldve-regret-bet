@@ -32,12 +32,12 @@
 <body>
 <header>
   <h1>Should’ve Would’ve Could’ve</h1>
-  <div class="subtitle">Regret Bet · Version 2.1 · Updated 16 Nov 2026</div>
+  <div class="subtitle">Regret Bet · Version 2.1 · Updated 20 Nov 2026</div>
 </header>
 
 <div class="note">
-  <strong>Odds:</strong> Featured markets (moneyline, spread, total) use ESPN closing lines. 
-  Monday NFL touchdown props (first TD scorer, alternate passing TDs 0.5/1.5/2.5, alternate rush+reception TDs 0.5/1.5/2.5) were <strong>skipped</strong> — no Odds API key available (free 500-credit budget, one US region).
+  <strong>Odds:</strong> Featured markets (moneyline, spread, total) use ESPN closing/pickcenter lines. 
+  No Odds API key available (free 500-credit budget, one US region). Monday NFL touchdown props were <strong>skipped</strong>.
 </div>
 
 <div class="section">
@@ -117,14 +117,16 @@ function showUpcoming(league) {
   const games = (data.upcoming || {})[league] || [];
   const el = document.getElementById('upcoming-games');
   if (!games.length) { el.innerHTML = '<p style="color:var(--muted)">No upcoming games in window.</p>'; return; }
-  el.innerHTML = games.map(g => `
-    <div class="game-card">
+  el.innerHTML = games.map(g => {
+    const odds = g.odds;
+    const oddsHtml = odds ? `<div class="odds">Spread: ${odds.spread_details || '—'} · O/U: ${odds.overUnder || '—'}</div>` : '';
+    return `<div class="game-card">
       <div class="team"><div class="name">${g.away.abbr || g.away.team}</div></div>
       <div class="vs">@</div>
       <div class="team"><div class="name">${g.home.abbr || g.home.team}</div></div>
-      <div class="meta" style="grid-column:1/-1">${g.shortName || g.name} · <span class="status-upcoming">${g.status}</span> · ${new Date(g.date).toLocaleString()}</div>
-    </div>
-  `).join('');
+      <div class="meta" style="grid-column:1/-1">${g.shortName || g.name} · <span class="status-upcoming">${g.status}</span> · ${new Date(g.date).toLocaleString()}<br>${oddsHtml}</div>
+    </div>`;
+  }).join('');
 }
 
 load();
