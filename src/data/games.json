@@ -1,1 +1,4695 @@
-PLACEHOLDER
+{
+  "finished_yesterday": {
+    "NFL": [
+      {
+        "id": "401873053",
+        "name": "New England Patriots at Detroit Lions",
+        "shortName": "NE VS DET",
+        "date": "2026-11-15T14:30Z",
+        "status": "Final",
+        "away": {
+          "team": "New England Patriots",
+          "abbr": "NE",
+          "score": "10"
+        },
+        "home": {
+          "team": "Detroit Lions",
+          "abbr": "DET",
+          "score": "35"
+        },
+        "closing_odds": {
+          "spread_details": "DET -2.5",
+          "overUnder": 50.5,
+          "awayMoneyline": 124,
+          "homeMoneyline": -148,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401873058",
+        "name": "Kansas City Chiefs at Atlanta Falcons",
+        "shortName": "KC @ ATL",
+        "date": "2026-11-15T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Kansas City Chiefs",
+          "abbr": "KC",
+          "score": "35"
+        },
+        "home": {
+          "team": "Atlanta Falcons",
+          "abbr": "ATL",
+          "score": "13"
+        },
+        "closing_odds": {
+          "spread_details": "KC -3",
+          "overUnder": 47.5,
+          "awayMoneyline": -175,
+          "homeMoneyline": 145,
+          "spread": 3.0
+        }
+      },
+      {
+        "id": "401873056",
+        "name": "Houston Texans at Cleveland Browns",
+        "shortName": "HOU @ CLE",
+        "date": "2026-11-15T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Houston Texans",
+          "abbr": "HOU",
+          "score": "24"
+        },
+        "home": {
+          "team": "Cleveland Browns",
+          "abbr": "CLE",
+          "score": "27"
+        },
+        "closing_odds": {
+          "spread_details": "HOU -4.5",
+          "overUnder": 40.5,
+          "awayMoneyline": -205,
+          "homeMoneyline": 170,
+          "spread": 4.5
+        }
+      },
+      {
+        "id": "401873060",
+        "name": "Minnesota Vikings at Green Bay Packers",
+        "shortName": "MIN @ GB",
+        "date": "2026-11-15T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Minnesota Vikings",
+          "abbr": "MIN",
+          "score": "30"
+        },
+        "home": {
+          "team": "Green Bay Packers",
+          "abbr": "GB",
+          "score": "10"
+        },
+        "closing_odds": {
+          "spread_details": "GB -2.5",
+          "overUnder": 42.5,
+          "awayMoneyline": 124,
+          "homeMoneyline": -148,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401873057",
+        "name": "Jacksonville Jaguars at Tennessee Titans",
+        "shortName": "JAX @ TEN",
+        "date": "2026-11-15T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Jacksonville Jaguars",
+          "abbr": "JAX",
+          "score": "40"
+        },
+        "home": {
+          "team": "Tennessee Titans",
+          "abbr": "TEN",
+          "score": "23"
+        },
+        "closing_odds": {
+          "spread_details": "JAX -10.5",
+          "overUnder": 45.5,
+          "awayMoneyline": -650,
+          "homeMoneyline": 470,
+          "spread": 10.5
+        }
+      },
+      {
+        "id": "401873059",
+        "name": "Miami Dolphins at Indianapolis Colts",
+        "shortName": "MIA @ IND",
+        "date": "2026-11-15T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Miami Dolphins",
+          "abbr": "MIA",
+          "score": "22"
+        },
+        "home": {
+          "team": "Indianapolis Colts",
+          "abbr": "IND",
+          "score": "24"
+        },
+        "closing_odds": {
+          "spread_details": "IND -5.5",
+          "overUnder": 37.5,
+          "awayMoneyline": 195,
+          "homeMoneyline": -238,
+          "spread": -5.5
+        }
+      },
+      {
+        "id": "401873055",
+        "name": "Carolina Panthers at New Orleans Saints",
+        "shortName": "CAR @ NO",
+        "date": "2026-11-15T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Carolina Panthers",
+          "abbr": "CAR",
+          "score": "20"
+        },
+        "home": {
+          "team": "New Orleans Saints",
+          "abbr": "NO",
+          "score": "17"
+        },
+        "closing_odds": {
+          "spread_details": "CAR -1.5",
+          "overUnder": 48.5,
+          "awayMoneyline": -122,
+          "homeMoneyline": 102,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401873054",
+        "name": "Buffalo Bills at New York Jets",
+        "shortName": "BUF @ NYJ",
+        "date": "2026-11-15T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Buffalo Bills",
+          "abbr": "BUF",
+          "score": "31"
+        },
+        "home": {
+          "team": "New York Jets",
+          "abbr": "NYJ",
+          "score": "12"
+        },
+        "closing_odds": {
+          "spread_details": "BUF -8.5",
+          "overUnder": 50.5,
+          "awayMoneyline": -470,
+          "homeMoneyline": 360,
+          "spread": 8.5
+        }
+      },
+      {
+        "id": "401873062",
+        "name": "Seattle Seahawks at Las Vegas Raiders",
+        "shortName": "SEA @ LV",
+        "date": "2026-11-15T21:05Z",
+        "status": "Final",
+        "away": {
+          "team": "Seattle Seahawks",
+          "abbr": "SEA",
+          "score": "21"
+        },
+        "home": {
+          "team": "Las Vegas Raiders",
+          "abbr": "LV",
+          "score": "13"
+        },
+        "closing_odds": {
+          "spread_details": "SEA -6.5",
+          "overUnder": 40.5,
+          "awayMoneyline": -290,
+          "homeMoneyline": 235,
+          "spread": 6.5
+        }
+      },
+      {
+        "id": "401873061",
+        "name": "Los Angeles Rams at Arizona Cardinals",
+        "shortName": "LAR @ ARI",
+        "date": "2026-11-15T21:05Z",
+        "status": "Final",
+        "away": {
+          "team": "Los Angeles Rams",
+          "abbr": "LAR",
+          "score": "34"
+        },
+        "home": {
+          "team": "Arizona Cardinals",
+          "abbr": "ARI",
+          "score": "6"
+        },
+        "closing_odds": {
+          "spread_details": "LAR -8.5",
+          "overUnder": 38.5,
+          "awayMoneyline": -455,
+          "homeMoneyline": 350,
+          "spread": 8.5
+        }
+      },
+      {
+        "id": "401873063",
+        "name": "San Francisco 49ers at Dallas Cowboys",
+        "shortName": "SF @ DAL",
+        "date": "2026-11-15T21:25Z",
+        "status": "Final",
+        "away": {
+          "team": "San Francisco 49ers",
+          "abbr": "SF",
+          "score": "46"
+        },
+        "home": {
+          "team": "Dallas Cowboys",
+          "abbr": "DAL",
+          "score": "40"
+        },
+        "closing_odds": {
+          "spread_details": "SF -3.5",
+          "overUnder": 55.5,
+          "awayMoneyline": -198,
+          "homeMoneyline": 164,
+          "spread": 3.5
+        }
+      },
+      {
+        "id": "401873064",
+        "name": "Pittsburgh Steelers at Cincinnati Bengals",
+        "shortName": "PIT @ CIN",
+        "date": "2026-11-16T01:20Z",
+        "status": "Final",
+        "away": {
+          "team": "Pittsburgh Steelers",
+          "abbr": "PIT",
+          "score": "18"
+        },
+        "home": {
+          "team": "Cincinnati Bengals",
+          "abbr": "CIN",
+          "score": "38"
+        },
+        "closing_odds": {
+          "spread_details": "CIN -4.5",
+          "overUnder": 49.5,
+          "awayMoneyline": 185,
+          "homeMoneyline": -225,
+          "spread": -4.5
+        }
+      },
+      {
+        "id": "401873065",
+        "name": "Los Angeles Chargers at Baltimore Ravens",
+        "shortName": "LAC @ BAL",
+        "date": "2026-11-17T01:15Z",
+        "status": "Final",
+        "away": {
+          "team": "Los Angeles Chargers",
+          "abbr": "LAC",
+          "score": "23"
+        },
+        "home": {
+          "team": "Baltimore Ravens",
+          "abbr": "BAL",
+          "score": "20"
+        },
+        "closing_odds": {
+          "spread_details": "BAL -3.5",
+          "overUnder": 39.5,
+          "awayMoneyline": 180,
+          "homeMoneyline": -218,
+          "spread": -3.5
+        }
+      },
+      {
+        "id": "401873066",
+        "name": "Indianapolis Colts at Houston Texans",
+        "shortName": "IND @ HOU",
+        "date": "2026-11-20T01:15Z",
+        "status": "Final",
+        "away": {
+          "team": "Indianapolis Colts",
+          "abbr": "IND",
+          "score": "3"
+        },
+        "home": {
+          "team": "Houston Texans",
+          "abbr": "HOU",
+          "score": "26"
+        },
+        "closing_odds": {
+          "spread_details": "HOU -12.5",
+          "overUnder": 44.5,
+          "awayMoneyline": 531,
+          "homeMoneyline": -750,
+          "spread": -12.5
+        }
+      }
+    ],
+    "CollegeFootball": [
+      {
+        "id": "401858293",
+        "name": "Florida State Seminoles at Pittsburgh Panthers",
+        "shortName": "FSU @ PITT",
+        "date": "2026-11-14T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Florida State Seminoles",
+          "abbr": "FSU",
+          "score": "16"
+        },
+        "home": {
+          "team": "Pittsburgh Panthers",
+          "abbr": "PITT",
+          "score": "10"
+        },
+        "closing_odds": {
+          "spread_details": "PITT -3",
+          "overUnder": 52.5,
+          "awayMoneyline": 130,
+          "homeMoneyline": -155,
+          "spread": -3.0
+        }
+      },
+      {
+        "id": "401858526",
+        "name": "Illinois Fighting Illini at UCLA Bruins",
+        "shortName": "ILL @ UCLA",
+        "date": "2026-11-14T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Illinois Fighting Illini",
+          "abbr": "ILL",
+          "score": "14"
+        },
+        "home": {
+          "team": "UCLA Bruins",
+          "abbr": "UCLA",
+          "score": "22"
+        },
+        "closing_odds": {
+          "spread_details": "UCLA -10.5",
+          "overUnder": 48.5,
+          "awayMoneyline": 340,
+          "homeMoneyline": -440,
+          "spread": -10.5
+        }
+      },
+      {
+        "id": "401856860",
+        "name": "Houston Cougars at Colorado Buffaloes",
+        "shortName": "HOU @ COLO",
+        "date": "2026-11-14T03:15Z",
+        "status": "Final",
+        "away": {
+          "team": "Houston Cougars",
+          "abbr": "HOU",
+          "score": "32"
+        },
+        "home": {
+          "team": "Colorado Buffaloes",
+          "abbr": "COLO",
+          "score": "42"
+        },
+        "closing_odds": {
+          "spread_details": "HOU -7.5",
+          "overUnder": 53.5,
+          "awayMoneyline": -325,
+          "homeMoneyline": 260,
+          "spread": 7.5
+        }
+      },
+      {
+        "id": "401858296",
+        "name": "Duke Blue Devils at Miami Hurricanes",
+        "shortName": "DUKE @ MIA",
+        "date": "2026-11-14T17:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Duke Blue Devils",
+          "abbr": "DUKE",
+          "score": "25"
+        },
+        "home": {
+          "team": "Miami Hurricanes",
+          "abbr": "MIA",
+          "score": "36"
+        },
+        "closing_odds": {
+          "spread_details": "MIA -14",
+          "overUnder": 55.5,
+          "awayMoneyline": 440,
+          "homeMoneyline": -600,
+          "spread": -14.0
+        }
+      },
+      {
+        "id": "401858301",
+        "name": "Wake Forest Demon Deacons at SMU Mustangs",
+        "shortName": "WAKE @ SMU",
+        "date": "2026-11-14T17:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Wake Forest Demon Deacons",
+          "abbr": "WAKE",
+          "score": "49"
+        },
+        "home": {
+          "team": "SMU Mustangs",
+          "abbr": "SMU",
+          "score": "7"
+        },
+        "closing_odds": {
+          "spread_details": "SMU -2.5",
+          "overUnder": 60.5,
+          "awayMoneyline": 120,
+          "homeMoneyline": -142,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401858522",
+        "name": "Northwestern Wildcats at Ohio State Buckeyes",
+        "shortName": "NU @ OSU",
+        "date": "2026-11-14T17:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Northwestern Wildcats",
+          "abbr": "NU",
+          "score": "19"
+        },
+        "home": {
+          "team": "Ohio State Buckeyes",
+          "abbr": "OSU",
+          "score": "28"
+        },
+        "closing_odds": {
+          "spread_details": "OSU -14.5",
+          "overUnder": 45.5,
+          "awayMoneyline": 470,
+          "homeMoneyline": -650,
+          "spread": -14.5
+        }
+      },
+      {
+        "id": "401856859",
+        "name": "Cincinnati Bearcats at Iowa State Cyclones",
+        "shortName": "CIN @ ISU",
+        "date": "2026-11-14T17:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Cincinnati Bearcats",
+          "abbr": "CIN",
+          "score": "13"
+        },
+        "home": {
+          "team": "Iowa State Cyclones",
+          "abbr": "ISU",
+          "score": "41"
+        },
+        "closing_odds": {
+          "spread_details": "ISU -2.5",
+          "overUnder": 57.5,
+          "awayMoneyline": 110,
+          "homeMoneyline": -130,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401858300",
+        "name": "Syracuse Orange at NC State Wolfpack",
+        "shortName": "SYR @ NCSU",
+        "date": "2026-11-14T17:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Syracuse Orange",
+          "abbr": "SYR",
+          "score": "34"
+        },
+        "home": {
+          "team": "NC State Wolfpack",
+          "abbr": "NCSU",
+          "score": "31"
+        },
+        "closing_odds": {
+          "spread_details": "SYR -3",
+          "overUnder": 54.5,
+          "awayMoneyline": -142,
+          "homeMoneyline": 120,
+          "spread": 3.0
+        }
+      },
+      {
+        "id": "401858520",
+        "name": "Wisconsin Badgers at Maryland Terrapins",
+        "shortName": "WIS @ MD",
+        "date": "2026-11-14T17:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Wisconsin Badgers",
+          "abbr": "WIS",
+          "score": "21"
+        },
+        "home": {
+          "team": "Maryland Terrapins",
+          "abbr": "MD",
+          "score": "24"
+        },
+        "closing_odds": {
+          "spread_details": "WIS -8.5",
+          "overUnder": 40.5,
+          "awayMoneyline": -325,
+          "homeMoneyline": 260,
+          "spread": 8.5
+        }
+      },
+      {
+        "id": "401861967",
+        "name": "James Madison Dukes at UConn Huskies",
+        "shortName": "JMU @ CONN",
+        "date": "2026-11-14T17:00Z",
+        "status": "Final",
+        "away": {
+          "team": "James Madison Dukes",
+          "abbr": "JMU",
+          "score": "22"
+        },
+        "home": {
+          "team": "UConn Huskies",
+          "abbr": "CONN",
+          "score": "46"
+        },
+        "closing_odds": {
+          "spread_details": "JMU -4.5",
+          "overUnder": 56.5,
+          "awayMoneyline": -198,
+          "homeMoneyline": 164,
+          "spread": 4.5
+        }
+      },
+      {
+        "id": "401858297",
+        "name": "Georgia Tech Yellow Jackets at Clemson Tigers",
+        "shortName": "GT @ CLEM",
+        "date": "2026-11-14T17:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Georgia Tech Yellow Jackets",
+          "abbr": "GT",
+          "score": "20"
+        },
+        "home": {
+          "team": "Clemson Tigers",
+          "abbr": "CLEM",
+          "score": "6"
+        },
+        "closing_odds": {
+          "spread_details": "CLEM -15.5",
+          "overUnder": 47.5,
+          "awayMoneyline": 490,
+          "homeMoneyline": -675,
+          "spread": -15.5
+        }
+      },
+      {
+        "id": "401858525",
+        "name": "Nebraska Cornhuskers at Rutgers Scarlet Knights",
+        "shortName": "NEB @ RUTG",
+        "date": "2026-11-14T17:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Nebraska Cornhuskers",
+          "abbr": "NEB",
+          "score": "31"
+        },
+        "home": {
+          "team": "Rutgers Scarlet Knights",
+          "abbr": "RUTG",
+          "score": "0"
+        },
+        "closing_odds": {
+          "spread_details": "NEB -15.5",
+          "overUnder": 51.5,
+          "awayMoneyline": -700,
+          "homeMoneyline": 500,
+          "spread": 15.5
+        }
+      },
+      {
+        "id": "401856889",
+        "name": "Alabama Crimson Tide at Vanderbilt Commodores",
+        "shortName": "ALA @ VAN",
+        "date": "2026-11-14T17:45Z",
+        "status": "Final",
+        "away": {
+          "team": "Alabama Crimson Tide",
+          "abbr": "ALA",
+          "score": "21"
+        },
+        "home": {
+          "team": "Vanderbilt Commodores",
+          "abbr": "VAN",
+          "score": "6"
+        },
+        "closing_odds": {
+          "spread_details": "ALA -15.5",
+          "overUnder": 48.5,
+          "awayMoneyline": -800,
+          "homeMoneyline": 550,
+          "spread": 15.5
+        }
+      },
+      {
+        "id": "401862825",
+        "name": "East Carolina Pirates at Charlotte 49ers",
+        "shortName": "ECU @ CLT",
+        "date": "2026-11-14T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "East Carolina Pirates",
+          "abbr": "ECU",
+          "score": "17"
+        },
+        "home": {
+          "team": "Charlotte 49ers",
+          "abbr": "CLT",
+          "score": "16"
+        },
+        "closing_odds": {
+          "spread_details": "ECU -12.5",
+          "overUnder": 46.5,
+          "awayMoneyline": -485,
+          "homeMoneyline": 370,
+          "spread": 12.5
+        }
+      },
+      {
+        "id": "401862829",
+        "name": "UAB Blazers at Temple Owls",
+        "shortName": "UAB @ TEM",
+        "date": "2026-11-14T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "UAB Blazers",
+          "abbr": "UAB",
+          "score": "36"
+        },
+        "home": {
+          "team": "Temple Owls",
+          "abbr": "TEM",
+          "score": "10"
+        },
+        "closing_odds": {
+          "spread_details": "TEM -2.5",
+          "overUnder": 48.5,
+          "awayMoneyline": 120,
+          "homeMoneyline": -142,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401869937",
+        "name": "Arkansas State Red Wolves at Coastal Carolina Chanticleers",
+        "shortName": "ARST @ CCU",
+        "date": "2026-11-14T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Arkansas State Red Wolves",
+          "abbr": "ARST",
+          "score": "21"
+        },
+        "home": {
+          "team": "Coastal Carolina Chanticleers",
+          "abbr": "CCU",
+          "score": "28"
+        },
+        "closing_odds": {
+          "spread_details": "ARST -1.5",
+          "overUnder": 53.5,
+          "awayMoneyline": -110,
+          "homeMoneyline": -110,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401856862",
+        "name": "Kansas State Wildcats at TCU Horned Frogs",
+        "shortName": "KSU @ TCU",
+        "date": "2026-11-14T19:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Kansas State Wildcats",
+          "abbr": "KSU",
+          "score": "10"
+        },
+        "home": {
+          "team": "TCU Horned Frogs",
+          "abbr": "TCU",
+          "score": "20"
+        },
+        "closing_odds": {
+          "spread_details": "TCU -14",
+          "overUnder": 44.5,
+          "awayMoneyline": 400,
+          "homeMoneyline": -535,
+          "spread": -14.0
+        }
+      },
+      {
+        "id": "401870769",
+        "name": "Kennesaw State Owls at Sam Houston Bearkats",
+        "shortName": "KENN @ SHSU",
+        "date": "2026-11-14T19:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Kennesaw State Owls",
+          "abbr": "KENN",
+          "score": "26"
+        },
+        "home": {
+          "team": "Sam Houston Bearkats",
+          "abbr": "SHSU",
+          "score": "7"
+        },
+        "closing_odds": {
+          "spread_details": "KENN -9.5",
+          "overUnder": 44.5,
+          "awayMoneyline": -345,
+          "homeMoneyline": 275,
+          "spread": 9.5
+        }
+      },
+      {
+        "id": "401856888",
+        "name": "Tennessee Volunteers at Texas A&M Aggies",
+        "shortName": "TENN @ TA&M",
+        "date": "2026-11-14T20:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Tennessee Volunteers",
+          "abbr": "TENN",
+          "score": "22"
+        },
+        "home": {
+          "team": "Texas A&M Aggies",
+          "abbr": "TA&M",
+          "score": "7"
+        },
+        "closing_odds": {
+          "spread_details": "TENN -1.5",
+          "overUnder": 44.5,
+          "awayMoneyline": -115,
+          "homeMoneyline": -105,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401870796",
+        "name": "New Mexico State Aggies at Missouri State Bears",
+        "shortName": "NMSU @ MOST",
+        "date": "2026-11-14T20:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New Mexico State Aggies",
+          "abbr": "NMSU",
+          "score": "21"
+        },
+        "home": {
+          "team": "Missouri State Bears",
+          "abbr": "MOST",
+          "score": "27"
+        },
+        "closing_odds": {
+          "spread_details": "MOST -1.5",
+          "overUnder": 49.5,
+          "awayMoneyline": -110,
+          "homeMoneyline": -110,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401871060",
+        "name": "Florida International Panthers at Delaware Blue Hens",
+        "shortName": "FIU @ DEL",
+        "date": "2026-11-14T20:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Florida International Panthers",
+          "abbr": "FIU",
+          "score": "16"
+        },
+        "home": {
+          "team": "Delaware Blue Hens",
+          "abbr": "DEL",
+          "score": "24"
+        },
+        "closing_odds": {
+          "spread_details": "DEL -4",
+          "overUnder": 54.5,
+          "awayMoneyline": 154,
+          "homeMoneyline": -185,
+          "spread": -4.0
+        }
+      },
+      {
+        "id": "401856883",
+        "name": "Missouri Tigers at Georgia Bulldogs",
+        "shortName": "MIZ @ UGA",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Missouri Tigers",
+          "abbr": "MIZ",
+          "score": "21"
+        },
+        "home": {
+          "team": "Georgia Bulldogs",
+          "abbr": "UGA",
+          "score": "48"
+        },
+        "closing_odds": {
+          "spread_details": "UGA -16.5",
+          "overUnder": 48.5,
+          "awayMoneyline": 575,
+          "homeMoneyline": -850,
+          "spread": -16.5
+        }
+      },
+      {
+        "id": "401858294",
+        "name": "Boston College Eagles at Notre Dame Fighting Irish",
+        "shortName": "BC @ ND",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Boston College Eagles",
+          "abbr": "BC",
+          "score": "7"
+        },
+        "home": {
+          "team": "Notre Dame Fighting Irish",
+          "abbr": "ND",
+          "score": "41"
+        },
+        "closing_odds": {
+          "spread_details": "ND -29.5",
+          "overUnder": 51.5,
+          "awayMoneyline": 1800,
+          "homeMoneyline": -5000,
+          "spread": -29.5
+        }
+      },
+      {
+        "id": "401858518",
+        "name": "USC Trojans at Indiana Hoosiers",
+        "shortName": "USC @ IU",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "USC Trojans",
+          "abbr": "USC",
+          "score": "13"
+        },
+        "home": {
+          "team": "Indiana Hoosiers",
+          "abbr": "IU",
+          "score": "27"
+        },
+        "closing_odds": {
+          "spread_details": "IU -9.5",
+          "overUnder": 51.5,
+          "awayMoneyline": 260,
+          "homeMoneyline": -325,
+          "spread": -9.5
+        }
+      },
+      {
+        "id": "401858523",
+        "name": "Michigan Wolverines at Oregon Ducks",
+        "shortName": "MICH @ ORE",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Michigan Wolverines",
+          "abbr": "MICH",
+          "score": "7"
+        },
+        "home": {
+          "team": "Oregon Ducks",
+          "abbr": "ORE",
+          "score": "31"
+        },
+        "closing_odds": {
+          "spread_details": "ORE -10",
+          "overUnder": 39.5,
+          "awayMoneyline": 310,
+          "homeMoneyline": -395,
+          "spread": -10.0
+        }
+      },
+      {
+        "id": "401856861",
+        "name": "Kansas Jayhawks at West Virginia Mountaineers",
+        "shortName": "KU @ WVU",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Kansas Jayhawks",
+          "abbr": "KU",
+          "score": "37"
+        },
+        "home": {
+          "team": "West Virginia Mountaineers",
+          "abbr": "WVU",
+          "score": "14"
+        },
+        "closing_odds": {
+          "spread_details": "WVU -1.5",
+          "overUnder": 68.5,
+          "awayMoneyline": 105,
+          "homeMoneyline": -125,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401858295",
+        "name": "California Golden Bears at Virginia Cavaliers",
+        "shortName": "CAL @ UVA",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "California Golden Bears",
+          "abbr": "CAL",
+          "score": "7"
+        },
+        "home": {
+          "team": "Virginia Cavaliers",
+          "abbr": "UVA",
+          "score": "36"
+        },
+        "closing_odds": {
+          "spread_details": "UVA -11.5",
+          "overUnder": 46.5,
+          "awayMoneyline": 360,
+          "homeMoneyline": -470,
+          "spread": -11.5
+        }
+      },
+      {
+        "id": "401864536",
+        "name": "Nevada Wolf Pack at Northern Illinois Huskies",
+        "shortName": "NEV @ NIU",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Nevada Wolf Pack",
+          "abbr": "NEV",
+          "score": "28"
+        },
+        "home": {
+          "team": "Northern Illinois Huskies",
+          "abbr": "NIU",
+          "score": "7"
+        },
+        "closing_odds": {
+          "spread_details": "NEV -6.5",
+          "overUnder": 48.5,
+          "awayMoneyline": -238,
+          "homeMoneyline": 195,
+          "spread": 6.5
+        }
+      },
+      {
+        "id": "401869952",
+        "name": "Georgia Southern Eagles at Georgia State Panthers",
+        "shortName": "GASO @ GAST",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Georgia Southern Eagles",
+          "abbr": "GASO",
+          "score": "34"
+        },
+        "home": {
+          "team": "Georgia State Panthers",
+          "abbr": "GAST",
+          "score": "17"
+        },
+        "closing_odds": {
+          "spread_details": "GASO -5.5",
+          "overUnder": 55.5,
+          "awayMoneyline": -218,
+          "homeMoneyline": 180,
+          "spread": 5.5
+        }
+      },
+      {
+        "id": "401870752",
+        "name": "Jacksonville State Gamecocks at Western Kentucky Hilltoppers",
+        "shortName": "JXST @ WKU",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Jacksonville State Gamecocks",
+          "abbr": "JXST",
+          "score": "24"
+        },
+        "home": {
+          "team": "Western Kentucky Hilltoppers",
+          "abbr": "WKU",
+          "score": "34"
+        },
+        "closing_odds": {
+          "spread_details": "JXST -7.5",
+          "overUnder": 54.5,
+          "awayMoneyline": -298,
+          "homeMoneyline": 240,
+          "spread": 7.5
+        }
+      },
+      {
+        "id": "401871061",
+        "name": "Middle Tennessee Blue Raiders at Liberty Flames",
+        "shortName": "MTSU @ LIB",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Middle Tennessee Blue Raiders",
+          "abbr": "MTSU",
+          "score": "23"
+        },
+        "home": {
+          "team": "Liberty Flames",
+          "abbr": "LIB",
+          "score": "28"
+        },
+        "closing_odds": {
+          "spread_details": "LIB -22.5",
+          "overUnder": 53.5,
+          "awayMoneyline": 1100,
+          "homeMoneyline": -2100,
+          "spread": -22.5
+        }
+      },
+      {
+        "id": "401860916",
+        "name": "Fresno State Bulldogs at Texas State Bobcats",
+        "shortName": "FRES @ TXST",
+        "date": "2026-11-14T21:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Fresno State Bulldogs",
+          "abbr": "FRES",
+          "score": "35"
+        },
+        "home": {
+          "team": "Texas State Bobcats",
+          "abbr": "TXST",
+          "score": "37"
+        },
+        "closing_odds": {
+          "spread_details": "TXST -11.5",
+          "overUnder": 60.5,
+          "awayMoneyline": 340,
+          "homeMoneyline": -440,
+          "spread": -11.5
+        }
+      },
+      {
+        "id": "401856886",
+        "name": "Auburn Tigers at Mississippi State Bulldogs",
+        "shortName": "AUB @ MSST",
+        "date": "2026-11-14T21:15Z",
+        "status": "Final",
+        "away": {
+          "team": "Auburn Tigers",
+          "abbr": "AUB",
+          "score": "41"
+        },
+        "home": {
+          "team": "Mississippi State Bulldogs",
+          "abbr": "MSST",
+          "score": "9"
+        },
+        "closing_odds": {
+          "spread_details": "AUB -2.5",
+          "overUnder": 51.5,
+          "awayMoneyline": -148,
+          "homeMoneyline": 124,
+          "spread": 2.5
+        }
+      },
+      {
+        "id": "401862828",
+        "name": "Tulane Green Wave at Rice Owls",
+        "shortName": "TULN @ RICE",
+        "date": "2026-11-14T21:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Tulane Green Wave",
+          "abbr": "TULN",
+          "score": "20"
+        },
+        "home": {
+          "team": "Rice Owls",
+          "abbr": "RICE",
+          "score": "17"
+        },
+        "closing_odds": {
+          "spread_details": "RICE -4",
+          "overUnder": 49.5,
+          "awayMoneyline": 150,
+          "homeMoneyline": -180,
+          "spread": -4.0
+        }
+      },
+      {
+        "id": "401871099",
+        "name": "Southern Miss Golden Eagles at Louisiana Tech Bulldogs",
+        "shortName": "USM @ LT",
+        "date": "2026-11-14T22:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Southern Miss Golden Eagles",
+          "abbr": "USM",
+          "score": "31"
+        },
+        "home": {
+          "team": "Louisiana Tech Bulldogs",
+          "abbr": "LT",
+          "score": "63"
+        },
+        "closing_odds": {
+          "spread_details": "LT -17.5",
+          "overUnder": 55.5,
+          "awayMoneyline": 650,
+          "homeMoneyline": -1000,
+          "spread": -17.5
+        }
+      },
+      {
+        "id": "401856857",
+        "name": "Arizona State Sun Devils at UCF Knights",
+        "shortName": "ASU @ UCF",
+        "date": "2026-11-14T22:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Arizona State Sun Devils",
+          "abbr": "ASU",
+          "score": "26"
+        },
+        "home": {
+          "team": "UCF Knights",
+          "abbr": "UCF",
+          "score": "13"
+        },
+        "closing_odds": {
+          "spread_details": "UCF -3.5",
+          "overUnder": 46.5,
+          "awayMoneyline": 130,
+          "homeMoneyline": -155,
+          "spread": -3.5
+        }
+      },
+      {
+        "id": "401858521",
+        "name": "Washington Huskies at Michigan State Spartans",
+        "shortName": "WASH @ MSU",
+        "date": "2026-11-14T22:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Washington Huskies",
+          "abbr": "WASH",
+          "score": "21"
+        },
+        "home": {
+          "team": "Michigan State Spartans",
+          "abbr": "MSU",
+          "score": "14"
+        },
+        "closing_odds": {
+          "spread_details": "WASH -2.5",
+          "overUnder": 43.5,
+          "awayMoneyline": -142,
+          "homeMoneyline": 120,
+          "spread": 2.5
+        }
+      },
+      {
+        "id": "401860914",
+        "name": "Oregon State Beavers at Boise State Broncos",
+        "shortName": "ORST @ BOIS",
+        "date": "2026-11-14T23:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Oregon State Beavers",
+          "abbr": "ORST",
+          "score": "41"
+        },
+        "home": {
+          "team": "Boise State Broncos",
+          "abbr": "BOIS",
+          "score": "46"
+        },
+        "closing_odds": {
+          "spread_details": "BOIS -17.5",
+          "overUnder": 65.5,
+          "awayMoneyline": 575,
+          "homeMoneyline": -850,
+          "spread": -17.5
+        }
+      },
+      {
+        "id": "401869928",
+        "name": "App State Mountaineers at Marshall Thundering Herd",
+        "shortName": "APP @ MRSH",
+        "date": "2026-11-14T23:00Z",
+        "status": "Final",
+        "away": {
+          "team": "App State Mountaineers",
+          "abbr": "APP",
+          "score": "20"
+        },
+        "home": {
+          "team": "Marshall Thundering Herd",
+          "abbr": "MRSH",
+          "score": "16"
+        },
+        "closing_odds": {
+          "spread_details": "MRSH -1.5",
+          "overUnder": 54.5,
+          "awayMoneyline": -105,
+          "homeMoneyline": -115,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401856884",
+        "name": "Florida Gators at Kentucky Wildcats",
+        "shortName": "FLA @ UK",
+        "date": "2026-11-14T23:15Z",
+        "status": "Final",
+        "away": {
+          "team": "Florida Gators",
+          "abbr": "FLA",
+          "score": "21"
+        },
+        "home": {
+          "team": "Kentucky Wildcats",
+          "abbr": "UK",
+          "score": "14"
+        },
+        "closing_odds": {
+          "spread_details": "UK -3",
+          "overUnder": 52.5,
+          "awayMoneyline": 124,
+          "homeMoneyline": -148,
+          "spread": -3.0
+        }
+      },
+      {
+        "id": "401856858",
+        "name": "Baylor Bears at BYU Cougars",
+        "shortName": "BAY @ BYU",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Baylor Bears",
+          "abbr": "BAY",
+          "score": "7"
+        },
+        "home": {
+          "team": "BYU Cougars",
+          "abbr": "BYU",
+          "score": "28"
+        },
+        "closing_odds": {
+          "spread_details": "BYU -8.5",
+          "overUnder": 49.5,
+          "awayMoneyline": 250,
+          "homeMoneyline": -310,
+          "spread": -8.5
+        }
+      },
+      {
+        "id": "401858298",
+        "name": "Louisville Cardinals at North Carolina Tar Heels",
+        "shortName": "LOU @ UNC",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Louisville Cardinals",
+          "abbr": "LOU",
+          "score": "16"
+        },
+        "home": {
+          "team": "North Carolina Tar Heels",
+          "abbr": "UNC",
+          "score": "14"
+        },
+        "closing_odds": {
+          "spread_details": "LOU -3.5",
+          "overUnder": 57.5,
+          "awayMoneyline": -180,
+          "homeMoneyline": 150,
+          "spread": 3.5
+        }
+      },
+      {
+        "id": "401858524",
+        "name": "Minnesota Golden Gophers at Penn State Nittany Lions",
+        "shortName": "MINN @ PSU",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Minnesota Golden Gophers",
+          "abbr": "MINN",
+          "score": "14"
+        },
+        "home": {
+          "team": "Penn State Nittany Lions",
+          "abbr": "PSU",
+          "score": "42"
+        },
+        "closing_odds": {
+          "spread_details": "PSU -12.5",
+          "overUnder": 42.5,
+          "awayMoneyline": 380,
+          "homeMoneyline": -500,
+          "spread": -12.5
+        }
+      },
+      {
+        "id": "401864538",
+        "name": "San Jos\u00e9 State Spartans at Air Force Falcons",
+        "shortName": "SJSU @ AFA",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "San Jos\u00e9 State Spartans",
+          "abbr": "SJSU",
+          "score": "3"
+        },
+        "home": {
+          "team": "Air Force Falcons",
+          "abbr": "AFA",
+          "score": "24"
+        },
+        "closing_odds": {
+          "spread_details": "AF -15.5",
+          "overUnder": 50.5,
+          "awayMoneyline": 490,
+          "homeMoneyline": -675,
+          "spread": -15.5
+        }
+      },
+      {
+        "id": "401871100",
+        "name": "Troy Trojans at South Alabama Jaguars",
+        "shortName": "TROY @ USA",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Troy Trojans",
+          "abbr": "TROY",
+          "score": "14"
+        },
+        "home": {
+          "team": "South Alabama Jaguars",
+          "abbr": "USA",
+          "score": "27"
+        },
+        "closing_odds": {
+          "spread_details": "USA -3",
+          "overUnder": 55.5,
+          "awayMoneyline": 130,
+          "homeMoneyline": -155,
+          "spread": -3.0
+        }
+      },
+      {
+        "id": "401862826",
+        "name": "Florida Atlantic Owls at Tulsa Golden Hurricane",
+        "shortName": "FAU @ TLSA",
+        "date": "2026-11-15T00:15Z",
+        "status": "Final",
+        "away": {
+          "team": "Florida Atlantic Owls",
+          "abbr": "FAU",
+          "score": "21"
+        },
+        "home": {
+          "team": "Tulsa Golden Hurricane",
+          "abbr": "TLSA",
+          "score": "38"
+        },
+        "closing_odds": {
+          "spread_details": "TLSA -6.5",
+          "overUnder": 72.5,
+          "awayMoneyline": 195,
+          "homeMoneyline": -238,
+          "spread": -6.5
+        }
+      },
+      {
+        "id": "401856885",
+        "name": "Texas Longhorns at LSU Tigers",
+        "shortName": "TEX @ LSU",
+        "date": "2026-11-15T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Texas Longhorns",
+          "abbr": "TEX",
+          "score": "22"
+        },
+        "home": {
+          "team": "LSU Tigers",
+          "abbr": "LSU",
+          "score": "21"
+        },
+        "closing_odds": {
+          "spread_details": "LSU -5.5",
+          "overUnder": 47.5,
+          "awayMoneyline": 170,
+          "homeMoneyline": -205,
+          "spread": -5.5
+        }
+      },
+      {
+        "id": "401858519",
+        "name": "Purdue Boilermakers at Iowa Hawkeyes",
+        "shortName": "PUR @ IOWA",
+        "date": "2026-11-15T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Purdue Boilermakers",
+          "abbr": "PUR",
+          "score": "7"
+        },
+        "home": {
+          "team": "Iowa Hawkeyes",
+          "abbr": "IOWA",
+          "score": "28"
+        },
+        "closing_odds": {
+          "spread_details": "IOWA -19.5",
+          "overUnder": 47.5,
+          "awayMoneyline": 800,
+          "homeMoneyline": -1350,
+          "spread": -19.5
+        }
+      },
+      {
+        "id": "401858299",
+        "name": "Stanford Cardinal at Virginia Tech Hokies",
+        "shortName": "STAN @ VT",
+        "date": "2026-11-15T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Stanford Cardinal",
+          "abbr": "STAN",
+          "score": "40"
+        },
+        "home": {
+          "team": "Virginia Tech Hokies",
+          "abbr": "VT",
+          "score": "22"
+        },
+        "closing_odds": {
+          "spread_details": "VT -17.5",
+          "overUnder": 57.5,
+          "awayMoneyline": 625,
+          "homeMoneyline": -950,
+          "spread": -17.5
+        }
+      },
+      {
+        "id": "401864539",
+        "name": "UNLV Rebels at New Mexico Lobos",
+        "shortName": "UNLV @ UNM",
+        "date": "2026-11-15T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "UNLV Rebels",
+          "abbr": "UNLV",
+          "score": "21"
+        },
+        "home": {
+          "team": "New Mexico Lobos",
+          "abbr": "UNM",
+          "score": "17"
+        },
+        "closing_odds": {
+          "spread_details": "UNM -19.5",
+          "overUnder": 46.5,
+          "awayMoneyline": 700,
+          "homeMoneyline": -1100,
+          "spread": -19.5
+        }
+      },
+      {
+        "id": "401856882",
+        "name": "South Carolina Gamecocks at Arkansas Razorbacks",
+        "shortName": "SC @ ARK",
+        "date": "2026-11-15T00:45Z",
+        "status": "Final",
+        "away": {
+          "team": "South Carolina Gamecocks",
+          "abbr": "SC",
+          "score": "6"
+        },
+        "home": {
+          "team": "Arkansas Razorbacks",
+          "abbr": "ARK",
+          "score": "34"
+        },
+        "closing_odds": {
+          "spread_details": "SC -6.5",
+          "overUnder": 51.5,
+          "awayMoneyline": -265,
+          "homeMoneyline": 215,
+          "spread": 6.5
+        }
+      },
+      {
+        "id": "401862827",
+        "name": "North Texas Mean Green at UTSA Roadrunners",
+        "shortName": "UNT @ UTSA",
+        "date": "2026-11-15T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "North Texas Mean Green",
+          "abbr": "UNT",
+          "score": "16"
+        },
+        "home": {
+          "team": "UTSA Roadrunners",
+          "abbr": "UTSA",
+          "score": "35"
+        },
+        "closing_odds": {
+          "spread_details": "UNT -3",
+          "overUnder": 76.5,
+          "awayMoneyline": -142,
+          "homeMoneyline": 120,
+          "spread": 3.0
+        }
+      },
+      {
+        "id": "401856863",
+        "name": "Texas Tech Red Raiders at Oklahoma State Cowboys",
+        "shortName": "TTU @ OKST",
+        "date": "2026-11-15T02:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Texas Tech Red Raiders",
+          "abbr": "TTU",
+          "score": "52"
+        },
+        "home": {
+          "team": "Oklahoma State Cowboys",
+          "abbr": "OKST",
+          "score": "27"
+        },
+        "closing_odds": {
+          "spread_details": "OKST -4.5",
+          "overUnder": 74.5,
+          "awayMoneyline": 160,
+          "homeMoneyline": -192,
+          "spread": -4.5
+        }
+      },
+      {
+        "id": "401860915",
+        "name": "Utah State Aggies at San Diego State Aztecs",
+        "shortName": "USU @ SDSU",
+        "date": "2026-11-15T02:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Utah State Aggies",
+          "abbr": "USU",
+          "score": "13"
+        },
+        "home": {
+          "team": "San Diego State Aztecs",
+          "abbr": "SDSU",
+          "score": "30"
+        },
+        "closing_odds": {
+          "spread_details": "USU -3",
+          "overUnder": 43.5,
+          "awayMoneyline": -155,
+          "homeMoneyline": 130,
+          "spread": 3.0
+        }
+      },
+      {
+        "id": "401864540",
+        "name": "Wyoming Cowboys at UTEP Miners",
+        "shortName": "WYO @ UTEP",
+        "date": "2026-11-15T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Wyoming Cowboys",
+          "abbr": "WYO",
+          "score": "27"
+        },
+        "home": {
+          "team": "UTEP Miners",
+          "abbr": "UTEP",
+          "score": "15"
+        },
+        "closing_odds": {
+          "spread_details": "WYO -7",
+          "overUnder": 40.5,
+          "awayMoneyline": -285,
+          "homeMoneyline": 230,
+          "spread": 7.0
+        }
+      },
+      {
+        "id": "401856864",
+        "name": "Utah Utes at Arizona Wildcats",
+        "shortName": "UTAH @ ARIZ",
+        "date": "2026-11-15T03:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Utah Utes",
+          "abbr": "UTAH",
+          "score": "40"
+        },
+        "home": {
+          "team": "Arizona Wildcats",
+          "abbr": "ARIZ",
+          "score": "39"
+        },
+        "closing_odds": {
+          "spread_details": "UTAH -2.5",
+          "overUnder": 56.5,
+          "awayMoneyline": -142,
+          "homeMoneyline": 120,
+          "spread": 2.5
+        }
+      },
+      {
+        "id": "401860917",
+        "name": "Colorado State Rams at Washington State Cougars",
+        "shortName": "CSU @ WSU",
+        "date": "2026-11-15T03:45Z",
+        "status": "Final",
+        "away": {
+          "team": "Colorado State Rams",
+          "abbr": "CSU",
+          "score": "7"
+        },
+        "home": {
+          "team": "Washington State Cougars",
+          "abbr": "WSU",
+          "score": "73"
+        },
+        "closing_odds": {
+          "spread_details": "WSU -7.5",
+          "overUnder": 64.5,
+          "awayMoneyline": 235,
+          "homeMoneyline": -290,
+          "spread": -7.5
+        }
+      },
+      {
+        "id": "401864537",
+        "name": "North Dakota State Bison at Hawai'i Rainbow Warriors",
+        "shortName": "NDSU @ HAW",
+        "date": "2026-11-15T04:00Z",
+        "status": "Final",
+        "away": {
+          "team": "North Dakota State Bison",
+          "abbr": "NDSU",
+          "score": "21"
+        },
+        "home": {
+          "team": "Hawai'i Rainbow Warriors",
+          "abbr": "HAW",
+          "score": "13"
+        },
+        "closing_odds": {
+          "spread_details": "NDSU -8.5",
+          "overUnder": 39.5,
+          "awayMoneyline": -340,
+          "homeMoneyline": 270,
+          "spread": 8.5
+        }
+      },
+      {
+        "id": "401856887",
+        "name": "Ole Miss Rebels at Oklahoma Sooners",
+        "shortName": "MISS @ OU",
+        "date": "2026-11-15T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Ole Miss Rebels",
+          "abbr": "MISS",
+          "score": "17"
+        },
+        "home": {
+          "team": "Oklahoma Sooners",
+          "abbr": "OU",
+          "score": "24"
+        },
+        "closing_odds": {
+          "spread_details": "OU -2.5",
+          "overUnder": 48.5,
+          "awayMoneyline": 114,
+          "homeMoneyline": -135,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401866465",
+        "name": "Eastern Michigan Eagles at Western Michigan Broncos",
+        "shortName": "EMU @ WMU",
+        "date": "2026-11-17T23:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Eastern Michigan Eagles",
+          "abbr": "EMU",
+          "score": "27"
+        },
+        "home": {
+          "team": "Western Michigan Broncos",
+          "abbr": "WMU",
+          "score": "34"
+        },
+        "closing_odds": {
+          "spread_details": "WMU -18.5",
+          "overUnder": 45.5,
+          "awayMoneyline": 625,
+          "homeMoneyline": -950,
+          "spread": -18.5
+        }
+      },
+      {
+        "id": "401866464",
+        "name": "Ball State Cardinals at Ohio Bobcats",
+        "shortName": "BALL @ OHIO",
+        "date": "2026-11-18T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Ball State Cardinals",
+          "abbr": "BALL",
+          "score": "28"
+        },
+        "home": {
+          "team": "Ohio Bobcats",
+          "abbr": "OHIO",
+          "score": "35"
+        },
+        "closing_odds": {
+          "spread_details": "OHIO -10",
+          "overUnder": 49.5,
+          "awayMoneyline": 320,
+          "homeMoneyline": -410,
+          "spread": -10.0
+        }
+      },
+      {
+        "id": "401866466",
+        "name": "Miami (OH) RedHawks at Kent State Golden Flashes",
+        "shortName": "M-OH @ KENT",
+        "date": "2026-11-18T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Miami (OH) RedHawks",
+          "abbr": "M-OH",
+          "score": "20"
+        },
+        "home": {
+          "team": "Kent State Golden Flashes",
+          "abbr": "KENT",
+          "score": "3"
+        },
+        "closing_odds": {
+          "spread_details": "M-OH -9.5",
+          "overUnder": 46.5,
+          "awayMoneyline": -375,
+          "homeMoneyline": 295,
+          "spread": 9.5
+        }
+      },
+      {
+        "id": "401866467",
+        "name": "Akron Zips at Massachusetts Minutemen",
+        "shortName": "AKR @ MASS",
+        "date": "2026-11-19T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Akron Zips",
+          "abbr": "AKR",
+          "score": "34"
+        },
+        "home": {
+          "team": "Massachusetts Minutemen",
+          "abbr": "MASS",
+          "score": "33"
+        },
+        "closing_odds": {
+          "spread_details": "MASS -3",
+          "overUnder": 46.5,
+          "awayMoneyline": 130,
+          "homeMoneyline": -155,
+          "spread": -3.0
+        }
+      },
+      {
+        "id": "401866469",
+        "name": "Central Michigan Chippewas at Buffalo Bulls",
+        "shortName": "CMU @ BUFF",
+        "date": "2026-11-19T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Central Michigan Chippewas",
+          "abbr": "CMU",
+          "score": "21"
+        },
+        "home": {
+          "team": "Buffalo Bulls",
+          "abbr": "BUFF",
+          "score": "40"
+        },
+        "closing_odds": {
+          "spread_details": "BUF -2.5",
+          "overUnder": 47.5,
+          "awayMoneyline": 120,
+          "homeMoneyline": -142,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401862830",
+        "name": "Rice Owls at Temple Owls",
+        "shortName": "RICE @ TEM",
+        "date": "2026-11-20T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Rice Owls",
+          "abbr": "RICE",
+          "score": "31"
+        },
+        "home": {
+          "team": "Temple Owls",
+          "abbr": "TEM",
+          "score": "27"
+        },
+        "closing_odds": {
+          "spread_details": "TEM -2.5",
+          "overUnder": 52.5,
+          "awayMoneyline": 114,
+          "homeMoneyline": -135,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401856869",
+        "name": "Iowa State Cyclones at UCF Knights",
+        "shortName": "ISU @ UCF",
+        "date": "2026-11-20T23:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Iowa State Cyclones",
+          "abbr": "ISU",
+          "score": "17"
+        },
+        "home": {
+          "team": "UCF Knights",
+          "abbr": "UCF",
+          "score": "48"
+        },
+        "closing_odds": {
+          "spread_details": "ISU -1.5",
+          "overUnder": 50.5,
+          "awayMoneyline": -115,
+          "homeMoneyline": -105,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401858303",
+        "name": "Clemson Tigers at Duke Blue Devils",
+        "shortName": "CLEM @ DUKE",
+        "date": "2026-11-21T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Clemson Tigers",
+          "abbr": "CLEM",
+          "score": "20"
+        },
+        "home": {
+          "team": "Duke Blue Devils",
+          "abbr": "DUKE",
+          "score": "10"
+        },
+        "closing_odds": {
+          "spread_details": "DUKE -11.5",
+          "overUnder": 41.5,
+          "awayMoneyline": 390,
+          "homeMoneyline": -520,
+          "spread": -11.5
+        }
+      },
+      {
+        "id": "401866468",
+        "name": "Bowling Green Falcons at Toledo Rockets",
+        "shortName": "BGSU @ TOL",
+        "date": "2026-11-21T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Bowling Green Falcons",
+          "abbr": "BGSU",
+          "score": "0"
+        },
+        "home": {
+          "team": "Toledo Rockets",
+          "abbr": "TOL",
+          "score": "19"
+        },
+        "closing_odds": {
+          "spread_details": "TOL -16.5",
+          "overUnder": 45.5,
+          "awayMoneyline": 575,
+          "homeMoneyline": -850,
+          "spread": -16.5
+        }
+      },
+      {
+        "id": "401858529",
+        "name": "Oregon Ducks at Michigan State Spartans",
+        "shortName": "ORE @ MSU",
+        "date": "2026-11-21T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Oregon Ducks",
+          "abbr": "ORE",
+          "score": "45"
+        },
+        "home": {
+          "team": "Michigan State Spartans",
+          "abbr": "MSU",
+          "score": "7"
+        },
+        "closing_odds": {
+          "spread_details": "ORE -19.5",
+          "overUnder": 42.5,
+          "awayMoneyline": -1350,
+          "homeMoneyline": 800,
+          "spread": 19.5
+        }
+      },
+      {
+        "id": "401864545",
+        "name": "UTEP Miners at Air Force Falcons",
+        "shortName": "UTEP @ AFA",
+        "date": "2026-11-21T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "UTEP Miners",
+          "abbr": "UTEP",
+          "score": "3"
+        },
+        "home": {
+          "team": "Air Force Falcons",
+          "abbr": "AFA",
+          "score": "52"
+        },
+        "closing_odds": {
+          "spread_details": "AF -23.5",
+          "overUnder": 48.5,
+          "awayMoneyline": 1200,
+          "homeMoneyline": -2400,
+          "spread": -23.5
+        }
+      },
+      {
+        "id": "401864542",
+        "name": "New Mexico Lobos at Wyoming Cowboys",
+        "shortName": "UNM @ WYO",
+        "date": "2026-11-21T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New Mexico Lobos",
+          "abbr": "UNM",
+          "score": "24"
+        },
+        "home": {
+          "team": "Wyoming Cowboys",
+          "abbr": "WYO",
+          "score": "17"
+        },
+        "closing_odds": {
+          "spread_details": "UNM -10.5",
+          "overUnder": 37.5,
+          "awayMoneyline": -395,
+          "homeMoneyline": 310,
+          "spread": 10.5
+        }
+      }
+    ],
+    "NHL": [
+      {
+        "id": "401892706",
+        "name": "New York Rangers at Vancouver Canucks",
+        "shortName": "NYR @ VAN",
+        "date": "2026-11-14T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New York Rangers",
+          "abbr": "NYR",
+          "score": "5"
+        },
+        "home": {
+          "team": "Vancouver Canucks",
+          "abbr": "VAN",
+          "score": "1"
+        },
+        "closing_odds": {
+          "spread_details": "NYR -205",
+          "overUnder": 6.5,
+          "awayMoneyline": -205,
+          "homeMoneyline": 170,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892707",
+        "name": "Nashville Predators at Vegas Golden Knights",
+        "shortName": "NSH @ VGK",
+        "date": "2026-11-14T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Nashville Predators",
+          "abbr": "NSH",
+          "score": "3"
+        },
+        "home": {
+          "team": "Vegas Golden Knights",
+          "abbr": "VGK",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "VGK -170",
+          "overUnder": 6.5,
+          "awayMoneyline": 142,
+          "homeMoneyline": -170,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401891809",
+        "name": "Seattle Kraken at Carolina Hurricanes",
+        "shortName": "SEA @ CAR",
+        "date": "2026-11-14T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Seattle Kraken",
+          "abbr": "SEA",
+          "score": "1"
+        },
+        "home": {
+          "team": "Carolina Hurricanes",
+          "abbr": "CAR",
+          "score": "5"
+        },
+        "closing_odds": {
+          "spread_details": "CAR -380",
+          "overUnder": 6.5,
+          "awayMoneyline": 300,
+          "homeMoneyline": -380,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892708",
+        "name": "Winnipeg Jets at Chicago Blackhawks",
+        "shortName": "WPG @ CHI",
+        "date": "2026-11-14T20:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Winnipeg Jets",
+          "abbr": "WPG",
+          "score": "5"
+        },
+        "home": {
+          "team": "Chicago Blackhawks",
+          "abbr": "CHI",
+          "score": "4"
+        },
+        "closing_odds": {
+          "spread_details": "WPG -162",
+          "overUnder": 6.5,
+          "awayMoneyline": -162,
+          "homeMoneyline": 136,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892709",
+        "name": "Minnesota Wild at Boston Bruins",
+        "shortName": "MIN @ BOS",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Minnesota Wild",
+          "abbr": "MIN",
+          "score": "6"
+        },
+        "home": {
+          "team": "Boston Bruins",
+          "abbr": "BOS",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "MIN -130",
+          "overUnder": 5.5,
+          "awayMoneyline": -130,
+          "homeMoneyline": 110,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892710",
+        "name": "Edmonton Oilers at Toronto Maple Leafs",
+        "shortName": "EDM @ TOR",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Edmonton Oilers",
+          "abbr": "EDM",
+          "score": "1"
+        },
+        "home": {
+          "team": "Toronto Maple Leafs",
+          "abbr": "TOR",
+          "score": "0"
+        },
+        "closing_odds": {
+          "spread_details": "EDM -142",
+          "overUnder": 6.5,
+          "awayMoneyline": -142,
+          "homeMoneyline": 120,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892711",
+        "name": "Colorado Avalanche at Montreal Canadiens",
+        "shortName": "COL @ MTL",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Colorado Avalanche",
+          "abbr": "COL",
+          "score": "4"
+        },
+        "home": {
+          "team": "Montreal Canadiens",
+          "abbr": "MTL",
+          "score": "1"
+        },
+        "closing_odds": {
+          "spread_details": "MTL -130",
+          "overUnder": 6.5,
+          "awayMoneyline": 110,
+          "homeMoneyline": -130,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892712",
+        "name": "Detroit Red Wings at Tampa Bay Lightning",
+        "shortName": "DET @ TB",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Detroit Red Wings",
+          "abbr": "DET",
+          "score": "2"
+        },
+        "home": {
+          "team": "Tampa Bay Lightning",
+          "abbr": "TB",
+          "score": "0"
+        },
+        "closing_odds": {
+          "spread_details": "TB -205",
+          "overUnder": 5.5,
+          "awayMoneyline": 170,
+          "homeMoneyline": -205,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892713",
+        "name": "Ottawa Senators at Pittsburgh Penguins",
+        "shortName": "OTT @ PIT",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Ottawa Senators",
+          "abbr": "OTT",
+          "score": "4"
+        },
+        "home": {
+          "team": "Pittsburgh Penguins",
+          "abbr": "PIT",
+          "score": "1"
+        },
+        "closing_odds": {
+          "spread_details": "OTT -135",
+          "overUnder": 6.5,
+          "awayMoneyline": -135,
+          "homeMoneyline": 114,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892714",
+        "name": "New Jersey Devils at Washington Capitals",
+        "shortName": "NJ @ WSH",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New Jersey Devils",
+          "abbr": "NJ",
+          "score": "7"
+        },
+        "home": {
+          "team": "Washington Capitals",
+          "abbr": "WSH",
+          "score": "4"
+        },
+        "closing_odds": {
+          "spread_details": "NJ -142",
+          "overUnder": 6.5,
+          "awayMoneyline": -142,
+          "homeMoneyline": 120,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892715",
+        "name": "Philadelphia Flyers at Columbus Blue Jackets",
+        "shortName": "PHI @ CBJ",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Philadelphia Flyers",
+          "abbr": "PHI",
+          "score": "4"
+        },
+        "home": {
+          "team": "Columbus Blue Jackets",
+          "abbr": "CBJ",
+          "score": "3"
+        },
+        "closing_odds": {
+          "spread_details": "CBJ -135",
+          "overUnder": 5.5,
+          "awayMoneyline": 114,
+          "homeMoneyline": -135,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892716",
+        "name": "Florida Panthers at St. Louis Blues",
+        "shortName": "FLA @ STL",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Florida Panthers",
+          "abbr": "FLA",
+          "score": "4"
+        },
+        "home": {
+          "team": "St. Louis Blues",
+          "abbr": "STL",
+          "score": "1"
+        },
+        "closing_odds": {
+          "spread_details": "STL -112",
+          "overUnder": 5.5,
+          "awayMoneyline": -108,
+          "homeMoneyline": -112,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892717",
+        "name": "Buffalo Sabres at Dallas Stars",
+        "shortName": "BUF @ DAL",
+        "date": "2026-11-15T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Buffalo Sabres",
+          "abbr": "BUF",
+          "score": "0"
+        },
+        "home": {
+          "team": "Dallas Stars",
+          "abbr": "DAL",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "DAL -135",
+          "overUnder": 6.5,
+          "awayMoneyline": 114,
+          "homeMoneyline": -135,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892718",
+        "name": "San Jose Sharks at Utah Mammoth",
+        "shortName": "SJ @ UTA",
+        "date": "2026-11-15T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "San Jose Sharks",
+          "abbr": "SJ",
+          "score": "6"
+        },
+        "home": {
+          "team": "Utah Mammoth",
+          "abbr": "UTA",
+          "score": "5"
+        },
+        "closing_odds": {
+          "spread_details": "UTAH -185",
+          "overUnder": 6.5,
+          "awayMoneyline": 154,
+          "homeMoneyline": -185,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892719",
+        "name": "New York Islanders at Anaheim Ducks",
+        "shortName": "NYI @ ANA",
+        "date": "2026-11-15T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New York Islanders",
+          "abbr": "NYI",
+          "score": "6"
+        },
+        "home": {
+          "team": "Anaheim Ducks",
+          "abbr": "ANA",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "NYI -112",
+          "overUnder": 6.5,
+          "awayMoneyline": -112,
+          "homeMoneyline": -108,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892720",
+        "name": "Calgary Flames at Los Angeles Kings",
+        "shortName": "CGY @ LA",
+        "date": "2026-11-15T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Calgary Flames",
+          "abbr": "CGY",
+          "score": "3"
+        },
+        "home": {
+          "team": "Los Angeles Kings",
+          "abbr": "LA",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "LA -175",
+          "overUnder": 5.5,
+          "awayMoneyline": 145,
+          "homeMoneyline": -175,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892721",
+        "name": "Edmonton Oilers at Philadelphia Flyers",
+        "shortName": "EDM @ PHI",
+        "date": "2026-11-16T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Edmonton Oilers",
+          "abbr": "EDM",
+          "score": "5"
+        },
+        "home": {
+          "team": "Philadelphia Flyers",
+          "abbr": "PHI",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "EDM -135",
+          "overUnder": 5.5,
+          "awayMoneyline": -135,
+          "homeMoneyline": 114,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892722",
+        "name": "Florida Panthers at Dallas Stars",
+        "shortName": "FLA @ DAL",
+        "date": "2026-11-16T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Florida Panthers",
+          "abbr": "FLA",
+          "score": "1"
+        },
+        "home": {
+          "team": "Dallas Stars",
+          "abbr": "DAL",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "DAL -130",
+          "overUnder": 5.5,
+          "awayMoneyline": 110,
+          "homeMoneyline": -130,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892723",
+        "name": "Calgary Flames at Anaheim Ducks",
+        "shortName": "CGY @ ANA",
+        "date": "2026-11-16T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Calgary Flames",
+          "abbr": "CGY",
+          "score": "1"
+        },
+        "home": {
+          "team": "Anaheim Ducks",
+          "abbr": "ANA",
+          "score": "6"
+        },
+        "closing_odds": {
+          "spread_details": "ANA -155",
+          "overUnder": 6.5,
+          "awayMoneyline": 130,
+          "homeMoneyline": -155,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892724",
+        "name": "Vancouver Canucks at Vegas Golden Knights",
+        "shortName": "VAN @ VGK",
+        "date": "2026-11-16T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Vancouver Canucks",
+          "abbr": "VAN",
+          "score": "6"
+        },
+        "home": {
+          "team": "Vegas Golden Knights",
+          "abbr": "VGK",
+          "score": "3"
+        },
+        "closing_odds": {
+          "spread_details": "VGK -440",
+          "overUnder": 6.5,
+          "awayMoneyline": 340,
+          "homeMoneyline": -440,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892725",
+        "name": "Nashville Predators at San Jose Sharks",
+        "shortName": "NSH @ SJ",
+        "date": "2026-11-16T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Nashville Predators",
+          "abbr": "NSH",
+          "score": "2"
+        },
+        "home": {
+          "team": "San Jose Sharks",
+          "abbr": "SJ",
+          "score": "4"
+        },
+        "closing_odds": {
+          "spread_details": "NSH -170",
+          "overUnder": 6.5,
+          "awayMoneyline": -170,
+          "homeMoneyline": 142,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892726",
+        "name": "Montreal Canadiens at New York Rangers",
+        "shortName": "MTL @ NYR",
+        "date": "2026-11-17T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Montreal Canadiens",
+          "abbr": "MTL",
+          "score": "1"
+        },
+        "home": {
+          "team": "New York Rangers",
+          "abbr": "NYR",
+          "score": "3"
+        },
+        "closing_odds": {
+          "spread_details": "MTL -120",
+          "overUnder": 6.5,
+          "awayMoneyline": -120,
+          "homeMoneyline": 100,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892727",
+        "name": "Vancouver Canucks at Utah Mammoth",
+        "shortName": "VAN @ UTA",
+        "date": "2026-11-17T02:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Vancouver Canucks",
+          "abbr": "VAN",
+          "score": "3"
+        },
+        "home": {
+          "team": "Utah Mammoth",
+          "abbr": "UTA",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "UTAH -340",
+          "overUnder": 6.5,
+          "awayMoneyline": 270,
+          "homeMoneyline": -340,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892728",
+        "name": "Los Angeles Kings at Boston Bruins",
+        "shortName": "LA @ BOS",
+        "date": "2026-11-18T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Los Angeles Kings",
+          "abbr": "LA",
+          "score": "3"
+        },
+        "home": {
+          "team": "Boston Bruins",
+          "abbr": "BOS",
+          "score": "0"
+        },
+        "closing_odds": {
+          "spread_details": "BOS -166",
+          "overUnder": 5.5,
+          "awayMoneyline": 140,
+          "homeMoneyline": -166,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892730",
+        "name": "Edmonton Oilers at Florida Panthers",
+        "shortName": "EDM @ FLA",
+        "date": "2026-11-18T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Edmonton Oilers",
+          "abbr": "EDM",
+          "score": "5"
+        },
+        "home": {
+          "team": "Florida Panthers",
+          "abbr": "FLA",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "FLA -135",
+          "overUnder": 5.5,
+          "awayMoneyline": 114,
+          "homeMoneyline": -135,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892731",
+        "name": "Columbus Blue Jackets at New York Islanders",
+        "shortName": "CBJ @ NYI",
+        "date": "2026-11-18T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Columbus Blue Jackets",
+          "abbr": "CBJ",
+          "score": "1"
+        },
+        "home": {
+          "team": "New York Islanders",
+          "abbr": "NYI",
+          "score": "5"
+        },
+        "closing_odds": {
+          "spread_details": "NYI -120",
+          "overUnder": 5.5,
+          "awayMoneyline": 100,
+          "homeMoneyline": -120,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892732",
+        "name": "Buffalo Sabres at Philadelphia Flyers",
+        "shortName": "BUF @ PHI",
+        "date": "2026-11-18T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Buffalo Sabres",
+          "abbr": "BUF",
+          "score": "3"
+        },
+        "home": {
+          "team": "Philadelphia Flyers",
+          "abbr": "PHI",
+          "score": "4"
+        },
+        "closing_odds": {
+          "spread_details": "BUF -130",
+          "overUnder": 6.5,
+          "awayMoneyline": -130,
+          "homeMoneyline": 110,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892736",
+        "name": "Ottawa Senators at Winnipeg Jets",
+        "shortName": "OTT @ WPG",
+        "date": "2026-11-18T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Ottawa Senators",
+          "abbr": "OTT",
+          "score": "2"
+        },
+        "home": {
+          "team": "Winnipeg Jets",
+          "abbr": "WPG",
+          "score": "1"
+        },
+        "closing_odds": {
+          "spread_details": "OTT -135",
+          "overUnder": 5.5,
+          "awayMoneyline": -135,
+          "homeMoneyline": 114,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892729",
+        "name": "Washington Capitals at Tampa Bay Lightning",
+        "shortName": "WSH @ TB",
+        "date": "2026-11-18T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Washington Capitals",
+          "abbr": "WSH",
+          "score": "2"
+        },
+        "home": {
+          "team": "Tampa Bay Lightning",
+          "abbr": "TB",
+          "score": "5"
+        },
+        "closing_odds": {
+          "spread_details": "TB -142",
+          "overUnder": 6.5,
+          "awayMoneyline": 120,
+          "homeMoneyline": -142,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892733",
+        "name": "Toronto Maple Leafs at Chicago Blackhawks",
+        "shortName": "TOR @ CHI",
+        "date": "2026-11-18T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Toronto Maple Leafs",
+          "abbr": "TOR",
+          "score": "3"
+        },
+        "home": {
+          "team": "Chicago Blackhawks",
+          "abbr": "CHI",
+          "score": "6"
+        },
+        "closing_odds": {
+          "spread_details": "TOR -142",
+          "overUnder": 6.5,
+          "awayMoneyline": -142,
+          "homeMoneyline": 120,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892734",
+        "name": "Anaheim Ducks at St. Louis Blues",
+        "shortName": "ANA @ STL",
+        "date": "2026-11-18T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Anaheim Ducks",
+          "abbr": "ANA",
+          "score": "6"
+        },
+        "home": {
+          "team": "St. Louis Blues",
+          "abbr": "STL",
+          "score": "8"
+        },
+        "closing_odds": {
+          "spread_details": "STL -142",
+          "overUnder": 6.5,
+          "awayMoneyline": 120,
+          "homeMoneyline": -142,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892735",
+        "name": "Nashville Predators at Minnesota Wild",
+        "shortName": "NSH @ MIN",
+        "date": "2026-11-18T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Nashville Predators",
+          "abbr": "NSH",
+          "score": "3"
+        },
+        "home": {
+          "team": "Minnesota Wild",
+          "abbr": "MIN",
+          "score": "7"
+        },
+        "closing_odds": {
+          "spread_details": "MIN -205",
+          "overUnder": 6.5,
+          "awayMoneyline": 170,
+          "homeMoneyline": -205,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892737",
+        "name": "Dallas Stars at Vegas Golden Knights",
+        "shortName": "DAL @ VGK",
+        "date": "2026-11-18T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Dallas Stars",
+          "abbr": "DAL",
+          "score": "4"
+        },
+        "home": {
+          "team": "Vegas Golden Knights",
+          "abbr": "VGK",
+          "score": "3"
+        },
+        "closing_odds": {
+          "spread_details": "VGK -122",
+          "overUnder": 5.5,
+          "awayMoneyline": 102,
+          "homeMoneyline": -122,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892738",
+        "name": "Calgary Flames at San Jose Sharks",
+        "shortName": "CGY @ SJ",
+        "date": "2026-11-18T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Calgary Flames",
+          "abbr": "CGY",
+          "score": "5"
+        },
+        "home": {
+          "team": "San Jose Sharks",
+          "abbr": "SJ",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "SJ -130",
+          "overUnder": 5.5,
+          "awayMoneyline": 110,
+          "homeMoneyline": -130,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892739",
+        "name": "Boston Bruins at Detroit Red Wings",
+        "shortName": "BOS @ DET",
+        "date": "2026-11-19T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Boston Bruins",
+          "abbr": "BOS",
+          "score": "4"
+        },
+        "home": {
+          "team": "Detroit Red Wings",
+          "abbr": "DET",
+          "score": "1"
+        },
+        "closing_odds": {
+          "spread_details": "DET -110",
+          "overUnder": 6.5,
+          "awayMoneyline": -110,
+          "homeMoneyline": -110,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892740",
+        "name": "Montreal Canadiens at New Jersey Devils",
+        "shortName": "MTL @ NJ",
+        "date": "2026-11-19T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Montreal Canadiens",
+          "abbr": "MTL",
+          "score": "3"
+        },
+        "home": {
+          "team": "New Jersey Devils",
+          "abbr": "NJ",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "NJ -170",
+          "overUnder": 6.5,
+          "awayMoneyline": 142,
+          "homeMoneyline": -170,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892741",
+        "name": "Colorado Avalanche at Utah Mammoth",
+        "shortName": "COL @ UTA",
+        "date": "2026-11-19T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Colorado Avalanche",
+          "abbr": "COL",
+          "score": "1"
+        },
+        "home": {
+          "team": "Utah Mammoth",
+          "abbr": "UTA",
+          "score": "4"
+        },
+        "closing_odds": {
+          "spread_details": "UTAH -110",
+          "overUnder": 6.5,
+          "awayMoneyline": -110,
+          "homeMoneyline": -110,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892742",
+        "name": "Los Angeles Kings at Toronto Maple Leafs",
+        "shortName": "LA @ TOR",
+        "date": "2026-11-20T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Los Angeles Kings",
+          "abbr": "LA",
+          "score": "4"
+        },
+        "home": {
+          "team": "Toronto Maple Leafs",
+          "abbr": "TOR",
+          "score": "3"
+        },
+        "closing_odds": {
+          "spread_details": "TOR -130",
+          "overUnder": 5.5,
+          "awayMoneyline": 110,
+          "homeMoneyline": -130,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892743",
+        "name": "Philadelphia Flyers at Ottawa Senators",
+        "shortName": "PHI @ OTT",
+        "date": "2026-11-20T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Philadelphia Flyers",
+          "abbr": "PHI",
+          "score": "6"
+        },
+        "home": {
+          "team": "Ottawa Senators",
+          "abbr": "OTT",
+          "score": "5"
+        },
+        "closing_odds": {
+          "spread_details": "OTT -148",
+          "overUnder": 5.5,
+          "awayMoneyline": 124,
+          "homeMoneyline": -148,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892745",
+        "name": "St. Louis Blues at Pittsburgh Penguins",
+        "shortName": "STL @ PIT",
+        "date": "2026-11-20T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "St. Louis Blues",
+          "abbr": "STL",
+          "score": "5"
+        },
+        "home": {
+          "team": "Pittsburgh Penguins",
+          "abbr": "PIT",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "STL -112",
+          "overUnder": 6.5,
+          "awayMoneyline": -112,
+          "homeMoneyline": -108,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892746",
+        "name": "Buffalo Sabres at Washington Capitals",
+        "shortName": "BUF @ WSH",
+        "date": "2026-11-20T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Buffalo Sabres",
+          "abbr": "BUF",
+          "score": "6"
+        },
+        "home": {
+          "team": "Washington Capitals",
+          "abbr": "WSH",
+          "score": "3"
+        },
+        "closing_odds": {
+          "spread_details": "WSH -142",
+          "overUnder": 6.5,
+          "awayMoneyline": 120,
+          "homeMoneyline": -142,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892747",
+        "name": "Montreal Canadiens at Carolina Hurricanes",
+        "shortName": "MTL @ CAR",
+        "date": "2026-11-20T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Montreal Canadiens",
+          "abbr": "MTL",
+          "score": "2"
+        },
+        "home": {
+          "team": "Carolina Hurricanes",
+          "abbr": "CAR",
+          "score": "1"
+        },
+        "closing_odds": {
+          "spread_details": "CAR -345",
+          "overUnder": 6.5,
+          "awayMoneyline": 275,
+          "homeMoneyline": -345,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892749",
+        "name": "New York Islanders at Winnipeg Jets",
+        "shortName": "NYI @ WPG",
+        "date": "2026-11-20T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New York Islanders",
+          "abbr": "NYI",
+          "score": "3"
+        },
+        "home": {
+          "team": "Winnipeg Jets",
+          "abbr": "WPG",
+          "score": "4"
+        },
+        "closing_odds": {
+          "spread_details": "WPG -118",
+          "overUnder": 6.5,
+          "awayMoneyline": -102,
+          "homeMoneyline": -118,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892744",
+        "name": "Edmonton Oilers at Tampa Bay Lightning",
+        "shortName": "EDM @ TB",
+        "date": "2026-11-20T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Edmonton Oilers",
+          "abbr": "EDM",
+          "score": "1"
+        },
+        "home": {
+          "team": "Tampa Bay Lightning",
+          "abbr": "TB",
+          "score": "3"
+        },
+        "closing_odds": {
+          "spread_details": "TB -142",
+          "overUnder": 5.5,
+          "awayMoneyline": 120,
+          "homeMoneyline": -142,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892748",
+        "name": "Columbus Blue Jackets at Chicago Blackhawks",
+        "shortName": "CBJ @ CHI",
+        "date": "2026-11-20T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Columbus Blue Jackets",
+          "abbr": "CBJ",
+          "score": "4"
+        },
+        "home": {
+          "team": "Chicago Blackhawks",
+          "abbr": "CHI",
+          "score": "2"
+        },
+        "closing_odds": {
+          "spread_details": "CBJ -162",
+          "overUnder": 6.5,
+          "awayMoneyline": -162,
+          "homeMoneyline": 136,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892750",
+        "name": "Minnesota Wild at Calgary Flames",
+        "shortName": "MIN @ CGY",
+        "date": "2026-11-20T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Minnesota Wild",
+          "abbr": "MIN",
+          "score": "4"
+        },
+        "home": {
+          "team": "Calgary Flames",
+          "abbr": "CGY",
+          "score": "1"
+        },
+        "closing_odds": {
+          "spread_details": "MIN -245",
+          "overUnder": 6.5,
+          "awayMoneyline": -245,
+          "homeMoneyline": 200,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401892751",
+        "name": "Anaheim Ducks at Colorado Avalanche",
+        "shortName": "ANA @ COL",
+        "date": "2026-11-20T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Anaheim Ducks",
+          "abbr": "ANA",
+          "score": "0"
+        },
+        "home": {
+          "team": "Colorado Avalanche",
+          "abbr": "COL",
+          "score": "4"
+        },
+        "closing_odds": {
+          "spread_details": "COL -130",
+          "overUnder": 6.5,
+          "awayMoneyline": 110,
+          "homeMoneyline": -130,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892752",
+        "name": "Vancouver Canucks at Seattle Kraken",
+        "shortName": "VAN @ SEA",
+        "date": "2026-11-20T02:40Z",
+        "status": "Final",
+        "away": {
+          "team": "Vancouver Canucks",
+          "abbr": "VAN",
+          "score": "1"
+        },
+        "home": {
+          "team": "Seattle Kraken",
+          "abbr": "SEA",
+          "score": "5"
+        },
+        "closing_odds": {
+          "spread_details": "SEA -162",
+          "overUnder": 6.5,
+          "awayMoneyline": 136,
+          "homeMoneyline": -162,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401892753",
+        "name": "Dallas Stars at Vegas Golden Knights",
+        "shortName": "DAL @ VGK",
+        "date": "2026-11-20T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Dallas Stars",
+          "abbr": "DAL",
+          "score": "4"
+        },
+        "home": {
+          "team": "Vegas Golden Knights",
+          "abbr": "VGK",
+          "score": "3"
+        },
+        "closing_odds": {
+          "spread_details": "VGK -130",
+          "overUnder": 5.5,
+          "awayMoneyline": 110,
+          "homeMoneyline": -130,
+          "spread": -1.5
+        }
+      }
+    ],
+    "NBA": [
+      {
+        "id": "401909296",
+        "name": "New York Knicks at Indiana Pacers",
+        "shortName": "NY @ IND",
+        "date": "2026-11-14T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New York Knicks",
+          "abbr": "NY",
+          "score": "104"
+        },
+        "home": {
+          "team": "Indiana Pacers",
+          "abbr": "IND",
+          "score": "106"
+        },
+        "closing_odds": {
+          "spread_details": "NY -7.5",
+          "overUnder": 218.5,
+          "awayMoneyline": -321,
+          "homeMoneyline": 259,
+          "spread": 7.5
+        }
+      },
+      {
+        "id": "401909297",
+        "name": "Milwaukee Bucks at Orlando Magic",
+        "shortName": "MIL @ ORL",
+        "date": "2026-11-14T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Milwaukee Bucks",
+          "abbr": "MIL",
+          "score": "99"
+        },
+        "home": {
+          "team": "Orlando Magic",
+          "abbr": "ORL",
+          "score": "107"
+        },
+        "closing_odds": {
+          "spread_details": "ORL -9.5",
+          "overUnder": 223.5,
+          "awayMoneyline": 331,
+          "homeMoneyline": -423,
+          "spread": -9.5
+        }
+      },
+      {
+        "id": "401909298",
+        "name": "Cleveland Cavaliers at Miami Heat",
+        "shortName": "CLE @ MIA",
+        "date": "2026-11-14T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Cleveland Cavaliers",
+          "abbr": "CLE",
+          "score": "121"
+        },
+        "home": {
+          "team": "Miami Heat",
+          "abbr": "MIA",
+          "score": "133"
+        },
+        "closing_odds": {
+          "spread_details": "MIA -2.5",
+          "overUnder": 234.5,
+          "awayMoneyline": 120,
+          "homeMoneyline": -142,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401909299",
+        "name": "Atlanta Hawks at Chicago Bulls",
+        "shortName": "ATL @ CHI",
+        "date": "2026-11-14T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Atlanta Hawks",
+          "abbr": "ATL",
+          "score": "117"
+        },
+        "home": {
+          "team": "Chicago Bulls",
+          "abbr": "CHI",
+          "score": "125"
+        },
+        "closing_odds": {
+          "spread_details": "ATL -6.5",
+          "overUnder": 246.5,
+          "awayMoneyline": -257,
+          "homeMoneyline": 211,
+          "spread": 6.5
+        }
+      },
+      {
+        "id": "401909300",
+        "name": "Memphis Grizzlies at New Orleans Pelicans",
+        "shortName": "MEM @ NO",
+        "date": "2026-11-14T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Memphis Grizzlies",
+          "abbr": "MEM",
+          "score": "142"
+        },
+        "home": {
+          "team": "New Orleans Pelicans",
+          "abbr": "NO",
+          "score": "111"
+        },
+        "closing_odds": {
+          "spread_details": "MEM -3.5",
+          "overUnder": 235.5,
+          "awayMoneyline": -162,
+          "homeMoneyline": 136,
+          "spread": 3.5
+        }
+      },
+      {
+        "id": "401909301",
+        "name": "Utah Jazz at Houston Rockets",
+        "shortName": "UTAH @ HOU",
+        "date": "2026-11-14T01:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Utah Jazz",
+          "abbr": "UTAH",
+          "score": "118"
+        },
+        "home": {
+          "team": "Houston Rockets",
+          "abbr": "HOU",
+          "score": "125"
+        },
+        "closing_odds": {
+          "spread_details": "HOU -15.5",
+          "overUnder": 221.5,
+          "awayMoneyline": 740,
+          "homeMoneyline": -1180,
+          "spread": -15.5
+        }
+      },
+      {
+        "id": "401909302",
+        "name": "Golden State Warriors at San Antonio Spurs",
+        "shortName": "GS @ SA",
+        "date": "2026-11-14T02:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Golden State Warriors",
+          "abbr": "GS",
+          "score": "85"
+        },
+        "home": {
+          "team": "San Antonio Spurs",
+          "abbr": "SA",
+          "score": "123"
+        },
+        "closing_odds": {
+          "spread_details": "SA -12.5",
+          "overUnder": 217.5,
+          "awayMoneyline": 501,
+          "homeMoneyline": -700,
+          "spread": -12.5
+        }
+      },
+      {
+        "id": "401909303",
+        "name": "Portland Trail Blazers at Sacramento Kings",
+        "shortName": "POR @ SAC",
+        "date": "2026-11-14T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Portland Trail Blazers",
+          "abbr": "POR",
+          "score": "120"
+        },
+        "home": {
+          "team": "Sacramento Kings",
+          "abbr": "SAC",
+          "score": "107"
+        },
+        "closing_odds": {
+          "spread_details": "POR -10.5",
+          "overUnder": 229.5,
+          "awayMoneyline": -468,
+          "homeMoneyline": 361,
+          "spread": 10.5
+        }
+      },
+      {
+        "id": "401909304",
+        "name": "Oklahoma City Thunder at LA Clippers",
+        "shortName": "OKC @ LAC",
+        "date": "2026-11-14T03:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Oklahoma City Thunder",
+          "abbr": "OKC",
+          "score": "112"
+        },
+        "home": {
+          "team": "LA Clippers",
+          "abbr": "LAC",
+          "score": "113"
+        },
+        "closing_odds": {
+          "spread_details": "OKC -6.5",
+          "overUnder": 221.5,
+          "awayMoneyline": -237,
+          "homeMoneyline": 196,
+          "spread": 6.5
+        }
+      },
+      {
+        "id": "401909980",
+        "name": "Denver Nuggets at New Orleans Pelicans",
+        "shortName": "DEN @ NO",
+        "date": "2026-11-15T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Denver Nuggets",
+          "abbr": "DEN",
+          "score": "116"
+        },
+        "home": {
+          "team": "New Orleans Pelicans",
+          "abbr": "NO",
+          "score": "108"
+        },
+        "closing_odds": {
+          "spread_details": "DEN -12.5",
+          "overUnder": 235.5,
+          "awayMoneyline": -650,
+          "homeMoneyline": 470,
+          "spread": 12.5
+        }
+      },
+      {
+        "id": "401909981",
+        "name": "Dallas Mavericks at Cleveland Cavaliers",
+        "shortName": "DAL @ CLE",
+        "date": "2026-11-15T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Dallas Mavericks",
+          "abbr": "DAL",
+          "score": "117"
+        },
+        "home": {
+          "team": "Cleveland Cavaliers",
+          "abbr": "CLE",
+          "score": "127"
+        },
+        "closing_odds": {
+          "spread_details": "DAL -8.5",
+          "overUnder": 228.5,
+          "awayMoneyline": -344,
+          "homeMoneyline": 276,
+          "spread": 8.5
+        }
+      },
+      {
+        "id": "401909982",
+        "name": "Detroit Pistons at Miami Heat",
+        "shortName": "DET @ MIA",
+        "date": "2026-11-15T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Detroit Pistons",
+          "abbr": "DET",
+          "score": "117"
+        },
+        "home": {
+          "team": "Miami Heat",
+          "abbr": "MIA",
+          "score": "137"
+        },
+        "closing_odds": {
+          "spread_details": "DET -4.5",
+          "overUnder": 228.5,
+          "awayMoneyline": -173,
+          "homeMoneyline": 146,
+          "spread": 4.5
+        }
+      },
+      {
+        "id": "401909983",
+        "name": "Brooklyn Nets at Memphis Grizzlies",
+        "shortName": "BKN @ MEM",
+        "date": "2026-11-15T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Brooklyn Nets",
+          "abbr": "BKN",
+          "score": "110"
+        },
+        "home": {
+          "team": "Memphis Grizzlies",
+          "abbr": "MEM",
+          "score": "129"
+        },
+        "closing_odds": {
+          "spread_details": "MEM -4.5",
+          "overUnder": 223.5,
+          "awayMoneyline": 160,
+          "homeMoneyline": -191,
+          "spread": -4.5
+        }
+      },
+      {
+        "id": "401909984",
+        "name": "Chicago Bulls at Minnesota Timberwolves",
+        "shortName": "CHI @ MIN",
+        "date": "2026-11-15T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Chicago Bulls",
+          "abbr": "CHI",
+          "score": "117"
+        },
+        "home": {
+          "team": "Minnesota Timberwolves",
+          "abbr": "MIN",
+          "score": "106"
+        },
+        "closing_odds": {
+          "spread_details": "MIN -16.5",
+          "overUnder": 237.5,
+          "awayMoneyline": 690,
+          "homeMoneyline": -1080,
+          "spread": -16.5
+        }
+      },
+      {
+        "id": "401909985",
+        "name": "Indiana Pacers at Philadelphia 76ers",
+        "shortName": "IND @ PHI",
+        "date": "2026-11-15T18:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Indiana Pacers",
+          "abbr": "IND",
+          "score": "124"
+        },
+        "home": {
+          "team": "Philadelphia 76ers",
+          "abbr": "PHI",
+          "score": "131"
+        },
+        "closing_odds": {
+          "spread_details": "PHI -7.5",
+          "overUnder": 226.5,
+          "awayMoneyline": 235,
+          "homeMoneyline": -288,
+          "spread": -7.5
+        }
+      },
+      {
+        "id": "401909986",
+        "name": "Los Angeles Lakers at Phoenix Suns",
+        "shortName": "LAL @ PHX",
+        "date": "2026-11-15T21:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Los Angeles Lakers",
+          "abbr": "LAL",
+          "score": "131"
+        },
+        "home": {
+          "team": "Phoenix Suns",
+          "abbr": "PHX",
+          "score": "123"
+        },
+        "closing_odds": {
+          "spread_details": "LAL -3.5",
+          "overUnder": 226.5,
+          "awayMoneyline": -161,
+          "homeMoneyline": 136,
+          "spread": 3.5
+        }
+      },
+      {
+        "id": "401909987",
+        "name": "Charlotte Hornets at LA Clippers",
+        "shortName": "CHA @ LAC",
+        "date": "2026-11-15T21:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Charlotte Hornets",
+          "abbr": "CHA",
+          "score": "105"
+        },
+        "home": {
+          "team": "LA Clippers",
+          "abbr": "LAC",
+          "score": "113"
+        },
+        "closing_odds": {
+          "spread_details": "LAC -1.5",
+          "overUnder": 214.5,
+          "awayMoneyline": 100,
+          "homeMoneyline": -118,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401909988",
+        "name": "San Antonio Spurs at Utah Jazz",
+        "shortName": "SA @ UTAH",
+        "date": "2026-11-15T22:00Z",
+        "status": "Final",
+        "away": {
+          "team": "San Antonio Spurs",
+          "abbr": "SA",
+          "score": "110"
+        },
+        "home": {
+          "team": "Utah Jazz",
+          "abbr": "UTAH",
+          "score": "102"
+        },
+        "closing_odds": {
+          "spread_details": "SA -14.5",
+          "overUnder": 222.5,
+          "awayMoneyline": -1080,
+          "homeMoneyline": 690,
+          "spread": 14.5
+        }
+      },
+      {
+        "id": "401909989",
+        "name": "Dallas Mavericks at Boston Celtics",
+        "shortName": "DAL @ BOS",
+        "date": "2026-11-15T23:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Dallas Mavericks",
+          "abbr": "DAL",
+          "score": "94"
+        },
+        "home": {
+          "team": "Boston Celtics",
+          "abbr": "BOS",
+          "score": "131"
+        },
+        "closing_odds": {
+          "spread_details": "BOS -14.5",
+          "overUnder": 217.5,
+          "awayMoneyline": 640,
+          "homeMoneyline": -970,
+          "spread": -14.5
+        }
+      },
+      {
+        "id": "401909990",
+        "name": "New York Knicks at Toronto Raptors",
+        "shortName": "NY @ TOR",
+        "date": "2026-11-15T23:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New York Knicks",
+          "abbr": "NY",
+          "score": "112"
+        },
+        "home": {
+          "team": "Toronto Raptors",
+          "abbr": "TOR",
+          "score": "108"
+        },
+        "closing_odds": {
+          "spread_details": "NY -4.5",
+          "overUnder": 218.5,
+          "awayMoneyline": -173,
+          "homeMoneyline": 146,
+          "spread": 4.5
+        }
+      },
+      {
+        "id": "401909991",
+        "name": "Houston Rockets at Washington Wizards",
+        "shortName": "HOU @ WSH",
+        "date": "2026-11-16T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Houston Rockets",
+          "abbr": "HOU",
+          "score": "147"
+        },
+        "home": {
+          "team": "Washington Wizards",
+          "abbr": "WSH",
+          "score": "119"
+        },
+        "closing_odds": {
+          "spread_details": "HOU -8.5",
+          "overUnder": 224.5,
+          "awayMoneyline": -359,
+          "homeMoneyline": 286,
+          "spread": 8.5
+        }
+      },
+      {
+        "id": "401909992",
+        "name": "Atlanta Hawks at Milwaukee Bucks",
+        "shortName": "ATL @ MIL",
+        "date": "2026-11-16T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Atlanta Hawks",
+          "abbr": "ATL",
+          "score": "113"
+        },
+        "home": {
+          "team": "Milwaukee Bucks",
+          "abbr": "MIL",
+          "score": "106"
+        },
+        "closing_odds": {
+          "spread_details": "ATL -8.5",
+          "overUnder": 233.5,
+          "awayMoneyline": -351,
+          "homeMoneyline": 281,
+          "spread": 8.5
+        }
+      },
+      {
+        "id": "401909993",
+        "name": "Oklahoma City Thunder at Sacramento Kings",
+        "shortName": "OKC @ SAC",
+        "date": "2026-11-16T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Oklahoma City Thunder",
+          "abbr": "OKC",
+          "score": "125"
+        },
+        "home": {
+          "team": "Sacramento Kings",
+          "abbr": "SAC",
+          "score": "103"
+        },
+        "closing_odds": {
+          "spread_details": "OKC -12.5",
+          "overUnder": 221.5,
+          "awayMoneyline": -620,
+          "homeMoneyline": 458,
+          "spread": 12.5
+        }
+      },
+      {
+        "id": "401909994",
+        "name": "Orlando Magic at Boston Celtics",
+        "shortName": "ORL @ BOS",
+        "date": "2026-11-17T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Orlando Magic",
+          "abbr": "ORL",
+          "score": "115"
+        },
+        "home": {
+          "team": "Boston Celtics",
+          "abbr": "BOS",
+          "score": "105"
+        },
+        "closing_odds": {
+          "spread_details": "BOS -8.5",
+          "overUnder": 212.5,
+          "awayMoneyline": 286,
+          "homeMoneyline": -358,
+          "spread": -8.5
+        }
+      },
+      {
+        "id": "401909995",
+        "name": "Chicago Bulls at Cleveland Cavaliers",
+        "shortName": "CHI @ CLE",
+        "date": "2026-11-17T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Chicago Bulls",
+          "abbr": "CHI",
+          "score": "115"
+        },
+        "home": {
+          "team": "Cleveland Cavaliers",
+          "abbr": "CLE",
+          "score": "126"
+        },
+        "closing_odds": {
+          "spread_details": "CLE -8.5",
+          "overUnder": 241.5,
+          "awayMoneyline": 263,
+          "homeMoneyline": -327,
+          "spread": -8.5
+        }
+      },
+      {
+        "id": "401909996",
+        "name": "Memphis Grizzlies at Washington Wizards",
+        "shortName": "MEM @ WSH",
+        "date": "2026-11-17T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Memphis Grizzlies",
+          "abbr": "MEM",
+          "score": "136"
+        },
+        "home": {
+          "team": "Washington Wizards",
+          "abbr": "WSH",
+          "score": "120"
+        },
+        "closing_odds": {
+          "spread_details": "MEM -3.5",
+          "overUnder": 231.5,
+          "awayMoneyline": -170,
+          "homeMoneyline": 143,
+          "spread": 3.5
+        }
+      },
+      {
+        "id": "401909997",
+        "name": "Philadelphia 76ers at Brooklyn Nets",
+        "shortName": "PHI @ BKN",
+        "date": "2026-11-17T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Philadelphia 76ers",
+          "abbr": "PHI",
+          "score": "135"
+        },
+        "home": {
+          "team": "Brooklyn Nets",
+          "abbr": "BKN",
+          "score": "123"
+        },
+        "closing_odds": {
+          "spread_details": "PHI -5.5",
+          "overUnder": 227.5,
+          "awayMoneyline": -230,
+          "homeMoneyline": 191,
+          "spread": 5.5
+        }
+      },
+      {
+        "id": "401909998",
+        "name": "Houston Rockets at Miami Heat",
+        "shortName": "HOU @ MIA",
+        "date": "2026-11-17T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Houston Rockets",
+          "abbr": "HOU",
+          "score": "110"
+        },
+        "home": {
+          "team": "Miami Heat",
+          "abbr": "MIA",
+          "score": "128"
+        },
+        "closing_odds": {
+          "spread_details": "HOU -1.5",
+          "overUnder": 233.5,
+          "awayMoneyline": -120,
+          "homeMoneyline": 102,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401909999",
+        "name": "Portland Trail Blazers at Minnesota Timberwolves",
+        "shortName": "POR @ MIN",
+        "date": "2026-11-17T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Portland Trail Blazers",
+          "abbr": "POR",
+          "score": "98"
+        },
+        "home": {
+          "team": "Minnesota Timberwolves",
+          "abbr": "MIN",
+          "score": "106"
+        },
+        "closing_odds": {
+          "spread_details": "MIN -2.5",
+          "overUnder": 227.5,
+          "awayMoneyline": 110,
+          "homeMoneyline": -130,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401910000",
+        "name": "Golden State Warriors at New Orleans Pelicans",
+        "shortName": "GS @ NO",
+        "date": "2026-11-17T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Golden State Warriors",
+          "abbr": "GS",
+          "score": "94"
+        },
+        "home": {
+          "team": "New Orleans Pelicans",
+          "abbr": "NO",
+          "score": "115"
+        },
+        "closing_odds": {
+          "spread_details": "GS -3.5",
+          "overUnder": 223.5,
+          "awayMoneyline": -170,
+          "homeMoneyline": 142,
+          "spread": 3.5
+        }
+      },
+      {
+        "id": "401910001",
+        "name": "Phoenix Suns at Denver Nuggets",
+        "shortName": "PHX @ DEN",
+        "date": "2026-11-17T02:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Phoenix Suns",
+          "abbr": "PHX",
+          "score": "117"
+        },
+        "home": {
+          "team": "Denver Nuggets",
+          "abbr": "DEN",
+          "score": "105"
+        },
+        "closing_odds": {
+          "spread_details": "DEN -9.5",
+          "overUnder": 229.5,
+          "awayMoneyline": 333,
+          "homeMoneyline": -426,
+          "spread": -9.5
+        }
+      },
+      {
+        "id": "401910002",
+        "name": "New York Knicks at Toronto Raptors",
+        "shortName": "NY @ TOR",
+        "date": "2026-11-18T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "New York Knicks",
+          "abbr": "NY",
+          "score": "111"
+        },
+        "home": {
+          "team": "Toronto Raptors",
+          "abbr": "TOR",
+          "score": "102"
+        },
+        "closing_odds": {
+          "spread_details": "NY -2.5",
+          "overUnder": 215.5,
+          "awayMoneyline": -135,
+          "homeMoneyline": 114,
+          "spread": 2.5
+        }
+      },
+      {
+        "id": "401910003",
+        "name": "Portland Trail Blazers at Minnesota Timberwolves",
+        "shortName": "POR @ MIN",
+        "date": "2026-11-18T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Portland Trail Blazers",
+          "abbr": "POR",
+          "score": "105"
+        },
+        "home": {
+          "team": "Minnesota Timberwolves",
+          "abbr": "MIN",
+          "score": "106"
+        },
+        "closing_odds": {
+          "spread_details": "MIN -4.5",
+          "overUnder": 225.5,
+          "awayMoneyline": 150,
+          "homeMoneyline": -179,
+          "spread": -4.5
+        }
+      },
+      {
+        "id": "401910004",
+        "name": "Detroit Pistons at San Antonio Spurs",
+        "shortName": "DET @ SA",
+        "date": "2026-11-18T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Detroit Pistons",
+          "abbr": "DET",
+          "score": "105"
+        },
+        "home": {
+          "team": "San Antonio Spurs",
+          "abbr": "SA",
+          "score": "93"
+        },
+        "closing_odds": {
+          "spread_details": "SA -9.5",
+          "overUnder": 221.5,
+          "awayMoneyline": 340,
+          "homeMoneyline": -437,
+          "spread": -9.5
+        }
+      },
+      {
+        "id": "401910006",
+        "name": "Utah Jazz at LA Clippers",
+        "shortName": "UTAH @ LAC",
+        "date": "2026-11-18T03:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Utah Jazz",
+          "abbr": "UTAH",
+          "score": "132"
+        },
+        "home": {
+          "team": "LA Clippers",
+          "abbr": "LAC",
+          "score": "107"
+        },
+        "closing_odds": {
+          "spread_details": "LAC -5.5",
+          "overUnder": 227.5,
+          "awayMoneyline": 190,
+          "homeMoneyline": -229,
+          "spread": -5.5
+        }
+      },
+      {
+        "id": "401910005",
+        "name": "Charlotte Hornets at Los Angeles Lakers",
+        "shortName": "CHA @ LAL",
+        "date": "2026-11-18T04:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Charlotte Hornets",
+          "abbr": "CHA",
+          "score": "114"
+        },
+        "home": {
+          "team": "Los Angeles Lakers",
+          "abbr": "LAL",
+          "score": "118"
+        },
+        "closing_odds": {
+          "spread_details": "LAL -6.5",
+          "overUnder": 221.5,
+          "awayMoneyline": 236,
+          "homeMoneyline": -289,
+          "spread": -6.5
+        }
+      },
+      {
+        "id": "401910007",
+        "name": "Memphis Grizzlies at Cleveland Cavaliers",
+        "shortName": "MEM @ CLE",
+        "date": "2026-11-19T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Memphis Grizzlies",
+          "abbr": "MEM",
+          "score": "124"
+        },
+        "home": {
+          "team": "Cleveland Cavaliers",
+          "abbr": "CLE",
+          "score": "121"
+        },
+        "closing_odds": {
+          "spread_details": "CLE -4.5",
+          "overUnder": 239.5,
+          "awayMoneyline": 155,
+          "homeMoneyline": -185,
+          "spread": -4.5
+        }
+      },
+      {
+        "id": "401910008",
+        "name": "Houston Rockets at Indiana Pacers",
+        "shortName": "HOU @ IND",
+        "date": "2026-11-19T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Houston Rockets",
+          "abbr": "HOU",
+          "score": "119"
+        },
+        "home": {
+          "team": "Indiana Pacers",
+          "abbr": "IND",
+          "score": "104"
+        },
+        "closing_odds": {
+          "spread_details": "HOU -7.5",
+          "overUnder": 224.5,
+          "awayMoneyline": -326,
+          "homeMoneyline": 262,
+          "spread": 7.5
+        }
+      },
+      {
+        "id": "401910009",
+        "name": "Milwaukee Bucks at Miami Heat",
+        "shortName": "MIL @ MIA",
+        "date": "2026-11-19T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Milwaukee Bucks",
+          "abbr": "MIL",
+          "score": "130"
+        },
+        "home": {
+          "team": "Miami Heat",
+          "abbr": "MIA",
+          "score": "137"
+        },
+        "closing_odds": {
+          "spread_details": "MIA -11.5",
+          "overUnder": 235.5,
+          "awayMoneyline": 504,
+          "homeMoneyline": -700,
+          "spread": -11.5
+        }
+      },
+      {
+        "id": "401910010",
+        "name": "Philadelphia 76ers at Orlando Magic",
+        "shortName": "PHI @ ORL",
+        "date": "2026-11-19T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Philadelphia 76ers",
+          "abbr": "PHI",
+          "score": "121"
+        },
+        "home": {
+          "team": "Orlando Magic",
+          "abbr": "ORL",
+          "score": "116"
+        },
+        "closing_odds": {
+          "spread_details": "ORL -4.5",
+          "overUnder": 218.5,
+          "awayMoneyline": 146,
+          "homeMoneyline": -174,
+          "spread": -4.5
+        }
+      },
+      {
+        "id": "401910011",
+        "name": "Chicago Bulls at Brooklyn Nets",
+        "shortName": "CHI @ BKN",
+        "date": "2026-11-19T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Chicago Bulls",
+          "abbr": "CHI",
+          "score": "137"
+        },
+        "home": {
+          "team": "Brooklyn Nets",
+          "abbr": "BKN",
+          "score": "107"
+        },
+        "closing_odds": {
+          "spread_details": "BKN -1.5",
+          "overUnder": 239.5,
+          "awayMoneyline": 105,
+          "homeMoneyline": -124,
+          "spread": -1.5
+        }
+      },
+      {
+        "id": "401910012",
+        "name": "Washington Wizards at Toronto Raptors",
+        "shortName": "WSH @ TOR",
+        "date": "2026-11-19T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Washington Wizards",
+          "abbr": "WSH",
+          "score": "103"
+        },
+        "home": {
+          "team": "Toronto Raptors",
+          "abbr": "TOR",
+          "score": "99"
+        },
+        "closing_odds": {
+          "spread_details": "TOR -4.5",
+          "overUnder": 223.5,
+          "awayMoneyline": 147,
+          "homeMoneyline": -176,
+          "spread": -4.5
+        }
+      },
+      {
+        "id": "401910013",
+        "name": "Detroit Pistons at New Orleans Pelicans",
+        "shortName": "DET @ NO",
+        "date": "2026-11-19T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Detroit Pistons",
+          "abbr": "DET",
+          "score": "122"
+        },
+        "home": {
+          "team": "New Orleans Pelicans",
+          "abbr": "NO",
+          "score": "109"
+        },
+        "closing_odds": {
+          "spread_details": "DET -4.5",
+          "overUnder": 224.5,
+          "awayMoneyline": -191,
+          "homeMoneyline": 160,
+          "spread": 4.5
+        }
+      },
+      {
+        "id": "401910014",
+        "name": "Atlanta Hawks at Oklahoma City Thunder",
+        "shortName": "ATL @ OKC",
+        "date": "2026-11-19T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Atlanta Hawks",
+          "abbr": "ATL",
+          "score": "117"
+        },
+        "home": {
+          "team": "Oklahoma City Thunder",
+          "abbr": "OKC",
+          "score": "112"
+        },
+        "closing_odds": {
+          "spread_details": "OKC -6.5",
+          "overUnder": 228.5,
+          "awayMoneyline": 217,
+          "homeMoneyline": -264,
+          "spread": -6.5
+        }
+      },
+      {
+        "id": "401910016",
+        "name": "Golden State Warriors at Dallas Mavericks",
+        "shortName": "GS @ DAL",
+        "date": "2026-11-19T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Golden State Warriors",
+          "abbr": "GS",
+          "score": "94"
+        },
+        "home": {
+          "team": "Dallas Mavericks",
+          "abbr": "DAL",
+          "score": "116"
+        },
+        "closing_odds": {
+          "spread_details": "DAL -5.5",
+          "overUnder": 223.5,
+          "awayMoneyline": 164,
+          "homeMoneyline": -197,
+          "spread": -5.5
+        }
+      },
+      {
+        "id": "401910015",
+        "name": "Boston Celtics at Denver Nuggets",
+        "shortName": "BOS @ DEN",
+        "date": "2026-11-19T02:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Boston Celtics",
+          "abbr": "BOS",
+          "score": "101"
+        },
+        "home": {
+          "team": "Denver Nuggets",
+          "abbr": "DEN",
+          "score": "105"
+        },
+        "closing_odds": {
+          "spread_details": "BOS -2.5",
+          "overUnder": 218.5,
+          "awayMoneyline": -136,
+          "homeMoneyline": 115,
+          "spread": 2.5
+        }
+      },
+      {
+        "id": "401910017",
+        "name": "Utah Jazz at Los Angeles Lakers",
+        "shortName": "UTAH @ LAL",
+        "date": "2026-11-19T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Utah Jazz",
+          "abbr": "UTAH",
+          "score": "109"
+        },
+        "home": {
+          "team": "Los Angeles Lakers",
+          "abbr": "LAL",
+          "score": "97"
+        },
+        "closing_odds": {
+          "spread_details": "LAL -11.5",
+          "overUnder": 229.5,
+          "awayMoneyline": 411,
+          "homeMoneyline": -545,
+          "spread": -11.5
+        }
+      },
+      {
+        "id": "401910018",
+        "name": "Phoenix Suns at Sacramento Kings",
+        "shortName": "PHX @ SAC",
+        "date": "2026-11-19T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Phoenix Suns",
+          "abbr": "PHX",
+          "score": "128"
+        },
+        "home": {
+          "team": "Sacramento Kings",
+          "abbr": "SAC",
+          "score": "107"
+        },
+        "closing_odds": {
+          "spread_details": "PHX -7.5",
+          "overUnder": 226.5,
+          "awayMoneyline": -283,
+          "homeMoneyline": 231,
+          "spread": 7.5
+        }
+      },
+      {
+        "id": "401910019",
+        "name": "Golden State Warriors at Memphis Grizzlies",
+        "shortName": "GS @ MEM",
+        "date": "2026-11-20T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Golden State Warriors",
+          "abbr": "GS",
+          "score": "98"
+        },
+        "home": {
+          "team": "Memphis Grizzlies",
+          "abbr": "MEM",
+          "score": "126"
+        },
+        "closing_odds": {
+          "spread_details": "MEM -5.5",
+          "overUnder": 225.5,
+          "awayMoneyline": 171,
+          "homeMoneyline": -205,
+          "spread": -5.5
+        }
+      },
+      {
+        "id": "401910020",
+        "name": "Portland Trail Blazers at Milwaukee Bucks",
+        "shortName": "POR @ MIL",
+        "date": "2026-11-20T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Portland Trail Blazers",
+          "abbr": "POR",
+          "score": "124"
+        },
+        "home": {
+          "team": "Milwaukee Bucks",
+          "abbr": "MIL",
+          "score": "114"
+        },
+        "closing_odds": {
+          "spread_details": "POR -9.5",
+          "overUnder": 230.5,
+          "awayMoneyline": -380,
+          "homeMoneyline": 301,
+          "spread": 9.5
+        }
+      },
+      {
+        "id": "401910021",
+        "name": "New York Knicks at Minnesota Timberwolves",
+        "shortName": "NY @ MIN",
+        "date": "2026-11-20T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New York Knicks",
+          "abbr": "NY",
+          "score": "102"
+        },
+        "home": {
+          "team": "Minnesota Timberwolves",
+          "abbr": "MIN",
+          "score": "99"
+        },
+        "closing_odds": {
+          "spread_details": "NY -1.5",
+          "overUnder": 216.5,
+          "awayMoneyline": -113,
+          "homeMoneyline": -104,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401910022",
+        "name": "LA Clippers at San Antonio Spurs",
+        "shortName": "LAC @ SA",
+        "date": "2026-11-20T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "LA Clippers",
+          "abbr": "LAC",
+          "score": "112"
+        },
+        "home": {
+          "team": "San Antonio Spurs",
+          "abbr": "SA",
+          "score": "124"
+        },
+        "closing_odds": {
+          "spread_details": "SA -15.5",
+          "overUnder": 224.5,
+          "awayMoneyline": 660,
+          "homeMoneyline": -1020,
+          "spread": -15.5
+        }
+      },
+      {
+        "id": "401909305",
+        "name": "Charlotte Hornets at Atlanta Hawks",
+        "shortName": "CHA @ ATL",
+        "date": "2026-11-21T00:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Charlotte Hornets",
+          "abbr": "CHA",
+          "score": "97"
+        },
+        "home": {
+          "team": "Atlanta Hawks",
+          "abbr": "ATL",
+          "score": "111"
+        },
+        "closing_odds": {
+          "spread_details": "ATL -7.5",
+          "overUnder": 219.5,
+          "awayMoneyline": 217,
+          "homeMoneyline": -264,
+          "spread": -7.5
+        }
+      },
+      {
+        "id": "401909306",
+        "name": "Orlando Magic at Brooklyn Nets",
+        "shortName": "ORL @ BKN",
+        "date": "2026-11-21T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Orlando Magic",
+          "abbr": "ORL",
+          "score": "113"
+        },
+        "home": {
+          "team": "Brooklyn Nets",
+          "abbr": "BKN",
+          "score": "111"
+        },
+        "closing_odds": {
+          "spread_details": "ORL -6.5",
+          "overUnder": 224.5,
+          "awayMoneyline": -249,
+          "homeMoneyline": 206,
+          "spread": 6.5
+        }
+      },
+      {
+        "id": "401909307",
+        "name": "Indiana Pacers at Cleveland Cavaliers",
+        "shortName": "IND @ CLE",
+        "date": "2026-11-21T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Indiana Pacers",
+          "abbr": "IND",
+          "score": "119"
+        },
+        "home": {
+          "team": "Cleveland Cavaliers",
+          "abbr": "CLE",
+          "score": "128"
+        },
+        "closing_odds": {
+          "spread_details": "CLE -6.5",
+          "overUnder": 235.5,
+          "awayMoneyline": 201,
+          "homeMoneyline": -244,
+          "spread": -6.5
+        }
+      },
+      {
+        "id": "401909308",
+        "name": "Toronto Raptors at Detroit Pistons",
+        "shortName": "TOR @ DET",
+        "date": "2026-11-21T00:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Toronto Raptors",
+          "abbr": "TOR",
+          "score": "105"
+        },
+        "home": {
+          "team": "Detroit Pistons",
+          "abbr": "DET",
+          "score": "102"
+        },
+        "closing_odds": {
+          "spread_details": "DET -6.5",
+          "overUnder": 215.5,
+          "awayMoneyline": 227,
+          "homeMoneyline": -277,
+          "spread": -6.5
+        }
+      },
+      {
+        "id": "401909309",
+        "name": "Washington Wizards at Chicago Bulls",
+        "shortName": "WSH @ CHI",
+        "date": "2026-11-21T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Washington Wizards",
+          "abbr": "WSH",
+          "score": "98"
+        },
+        "home": {
+          "team": "Chicago Bulls",
+          "abbr": "CHI",
+          "score": "94"
+        },
+        "closing_odds": {
+          "spread_details": "CHI -2.5",
+          "overUnder": 237.5,
+          "awayMoneyline": 114,
+          "homeMoneyline": -135,
+          "spread": -2.5
+        }
+      },
+      {
+        "id": "401909310",
+        "name": "New Orleans Pelicans at Oklahoma City Thunder",
+        "shortName": "NO @ OKC",
+        "date": "2026-11-21T01:00Z",
+        "status": "Final",
+        "away": {
+          "team": "New Orleans Pelicans",
+          "abbr": "NO",
+          "score": "120"
+        },
+        "home": {
+          "team": "Oklahoma City Thunder",
+          "abbr": "OKC",
+          "score": "126"
+        },
+        "closing_odds": {
+          "spread_details": "OKC -11.5",
+          "overUnder": 229.5,
+          "awayMoneyline": 368,
+          "homeMoneyline": -479,
+          "spread": -11.5
+        }
+      },
+      {
+        "id": "401909311",
+        "name": "Phoenix Suns at Utah Jazz",
+        "shortName": "PHX @ UTAH",
+        "date": "2026-11-21T02:30Z",
+        "status": "Final",
+        "away": {
+          "team": "Phoenix Suns",
+          "abbr": "PHX",
+          "score": "111"
+        },
+        "home": {
+          "team": "Utah Jazz",
+          "abbr": "UTAH",
+          "score": "101"
+        },
+        "closing_odds": {
+          "spread_details": "PHX -4.5",
+          "overUnder": 226.5,
+          "awayMoneyline": -192,
+          "homeMoneyline": 160,
+          "spread": 4.5
+        }
+      },
+      {
+        "id": "401909312",
+        "name": "Houston Rockets at Denver Nuggets",
+        "shortName": "HOU @ DEN",
+        "date": "2026-11-21T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Houston Rockets",
+          "abbr": "HOU",
+          "score": "124"
+        },
+        "home": {
+          "team": "Denver Nuggets",
+          "abbr": "DEN",
+          "score": "133"
+        },
+        "closing_odds": {
+          "spread_details": "HOU -1.5",
+          "overUnder": 227.5,
+          "awayMoneyline": -121,
+          "homeMoneyline": 102,
+          "spread": 1.5
+        }
+      },
+      {
+        "id": "401909313",
+        "name": "Sacramento Kings at Los Angeles Lakers",
+        "shortName": "SAC @ LAL",
+        "date": "2026-11-21T03:00Z",
+        "status": "Final",
+        "away": {
+          "team": "Sacramento Kings",
+          "abbr": "SAC",
+          "score": "104"
+        },
+        "home": {
+          "team": "Los Angeles Lakers",
+          "abbr": "LAL",
+          "score": "106"
+        },
+        "closing_odds": {
+          "spread_details": "LAL -14.5",
+          "overUnder": 229.5,
+          "awayMoneyline": 580,
+          "homeMoneyline": -840,
+          "spread": -14.5
+        }
+      }
+    ]
+  },
+  "upcoming": {},
+  "generated_at": "2026-11-20T23:55:00-08:00",
+  "note": "Finished games from last 7 days (America/Los_Angeles) with real DraftKings lines from ESPN pickcenter. No invented lines."
+}
